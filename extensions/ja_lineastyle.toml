@@ -1,13 +1,14 @@
 id = "ja_lineastyle"
-version = "0.1.1"
+version = "0.1.2"
 author = "Julio Angulo"
 author_url = "https://github.com/wrc86"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/wrc86/ja-ingetrazo-extensions"
-download = "https://raw.githubusercontent.com/wrc86/ja-ingetrazo-extensions/ja_lineastyle-v0.1.1/dist/ja_lineastyle-0.1.1.zip"
-sha256 = "ff2f56fbdb172709990809fff93e4664e52aa7ad9e360b93f93898b5c33a6ba4"
+download = "https://raw.githubusercontent.com/wrc86/ja-ingetrazo-extensions/ja_lineastyle-v0.1.2/dist/ja_lineastyle-0.1.2.zip"
+sha256 = "b14c7d6cb6d8a3749c10dcc320e0f8043ae3679371cb41e9a01862c95a265be9"
 ingetrazo = "0.5.7"
 tags = ["drawing", "architecture"]
+screenshot = "ja_lineastyle.png"
 
 [name]
 es = "JA LineaStyle"
