@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-05T14:36Z",
+ "generated": "2026-10-05T21:19Z",
  "tags": [
   "analysis",
   "architecture",
@@ -173,6 +173,33 @@
    "reviewed": true
   },
   {
+   "id": "planarq",
+   "version": "1.0",
+   "author": "José Castro Basso (FADU – UDELAR)",
+   "author_url": "https://github.com/castrobasso",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/castrobasso/ingetrazo/tree/planArq",
+   "download": "https://raw.githubusercontent.com/castrobasso/ingetrazo/b1a7edf5ea516c3ced02fcd8c570faa41da88e12/planArq-v1.zip",
+   "sha256": "e1073d8c42d45921fc4ab626aff40c7f3f8c7a592878e9c55e3b4aa25dcad01b",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "structures",
+    "education"
+   ],
+   "name": {
+    "es": "planArq",
+    "en": "planArq",
+    "pt": "planArq"
+   },
+   "summary": {
+    "es": "Muros, tuberías y perfiles (IPE, UPN, tubos, madera, steel framing) que siguen un recorrido editable: el eje y los parámetros se conservan para volver a editarlos. Esquemático, para precálculo orientativo.",
+    "en": "Walls, pipes and profiles (IPE, UPN, tubes, timber, steel framing) that follow an editable path: the axis and parameters are kept so you can edit them again. Schematic, for rough pre-sizing.",
+    "pt": "Paredes, tubulações e perfis (IPE, UPN, tubos, madeira, steel framing) que seguem um percurso editável: o eixo e os parâmetros são mantidos para editar depois. Esquemático, para pré-cálculo orientativo."
+   },
+   "reviewed": true
+  },
+  {
    "id": "propiedades_poligono",
    "version": "0.5.7",
    "author": "Rony Leonel Janampa Monago",
@@ -222,6 +249,31 @@
    "reviewed": true
   },
   {
+   "id": "perspective_matcher",
+   "version": "1.0",
+   "author": "Seghier Mohamed Abdellatif",
+   "author_url": "https://github.com/seghier",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/seghier/IngeTrazoPerspectiveMatcher",
+   "download": "https://github.com/seghier/IngeTrazoPerspectiveMatcher/releases/download/v1.0/perspective_matcher.zip",
+   "sha256": "bf4974ecf495d7b350154a01bd54eddf59d5cba82952a4a73e7d6943331adcdb",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "drawing",
+    "productivity"
+   ],
+   "name": {
+    "en": "Perspective Matcher",
+    "es": "Ajuste de Perspectiva"
+   },
+   "summary": {
+    "en": "Match 3D viewport camera to architectural photographs with interactive vanishing lines.",
+    "es": "Ajusta la cámara 3D a fotografías arquitectónicas con líneas de fuga interactivas."
+   },
+   "reviewed": false
+  },
+  {
    "id": "archxq_it",
    "version": "0.9.2",
    "author": "Orlando Souza · XQ",
@@ -251,14 +303,69 @@
    "reviewed": false
   },
   {
-   "id": "quadrify_tool",
+   "id": "organize_toolbar",
    "version": "1.0",
+   "author": "seghier",
+   "author_url": "https://github.com/seghier",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/seghier/ingetrazo-organize-toolbar",
+   "download": "https://github.com/seghier/ingetrazo-organize-toolbar/releases/download/v1.0/organize_toolbar.zip",
+   "sha256": "ed1aa832f2baad518d86e3fa422c5ebe36f62352674d215c1221a07ee885fe39",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "productivity",
+    "drawing"
+   ],
+   "screenshot": "organize_toolbar.png",
+   "name": {
+    "en": "Organize Toolbar",
+    "es": "Barra de Organización",
+    "pt": "Barra de Organização"
+   },
+   "summary": {
+    "en": "Dedicated toolbars for Hide, Unhide Last/All, Reverse Faces, Make Group and Explode, plus quick style switching.",
+    "es": "Barras para Ocultar, Mostrar último/todo, Invertir caras, Crear grupo y Desagrupar, y para cambiar de estilo con un clic.",
+    "pt": "Barras para Ocultar, Exibir último/tudo, Inverter faces, Criar grupo e Desagrupar, e para trocar de estilo com um clique."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "igz_toolbars",
+   "version": "1.4.0",
+   "author": "Ezequiel M. Rezende",
+   "author_url": "https://github.com/em-rezende",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/em-rezende/Ingetrazo-igz-toolbars",
+   "download": "https://github.com/em-rezende/Ingetrazo-igz-toolbars/releases/download/v1.4.0/igz_toolbars.zip",
+   "sha256": "b495e6c05d5a9010bf4e32201e9409ededa4d183c09704a83f23af5fc734b4b8",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "rendering",
+    "drawing",
+    "productivity"
+   ],
+   "screenshot": "igz_toolbars.png",
+   "name": {
+    "es": "Barras de estilos y sombras",
+    "en": "Styles and Shadows toolbars",
+    "pt": "Barras de estilos e sombras"
+   },
+   "summary": {
+    "es": "Dos barras: la de estilos replica el menú Cámara ▸ Estilo con 13 botones, y la de sombras añade un interruptor y deslizadores de fecha, hora e intensidad.",
+    "en": "Two toolbars: the Styles one mirrors the Camera ▸ Style menu with 13 buttons, and the Shadows one adds a toggle plus date, time and intensity sliders.",
+    "pt": "Duas barras: a de estilos espelha o menu Câmera ▸ Estilo com 13 botões, e a de sombras traz um botão e sliders de data, hora e intensidade."
+   },
+   "reviewed": false
+  },
+  {
+   "id": "quadrify_tool",
+   "version": "1.1",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-quadrify",
-   "download": "https://github.com/PESI3D/ingetrazo-quadrify/releases/download/v1.0/quadrify_tool.py",
-   "sha256": "1f8da8408212b04c035bf8e9df3b035fc007fd6f3648642080cd0006b1241c75",
+   "download": "https://github.com/PESI3D/ingetrazo-quadrify/releases/download/v1.1/quadrify_tool.py",
+   "sha256": "3bde7be3d52ee9a685d3bfed8bf3829750e3315ea9fbff66c0fd8fd75977c728",
    "ingetrazo": "0.5.7",
    "tags": [
     "import-export",
@@ -468,13 +575,13 @@
   },
   {
    "id": "array_tool",
-   "version": "1.1",
+   "version": "1.2",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-array",
-   "download": "https://github.com/PESI3D/ingetrazo-array/releases/download/v1.1/array_tool.py",
-   "sha256": "9c0d3ae3d92e5efe18fae2d00beeb271eba51818f3200e3a1c11c4aa45e84103",
+   "download": "https://github.com/PESI3D/ingetrazo-array/releases/download/v1.2/array_tool.py",
+   "sha256": "cf4cdb79ab0a3402d0f6f565886cdf3641fbcf9137b058c07b69c22bb8456a51",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
@@ -495,13 +602,13 @@
   },
   {
    "id": "membrane_tool",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-membrane",
-   "download": "https://github.com/PESI3D/ingetrazo-membrane/releases/download/v1.0/membrane_tool.py",
-   "sha256": "715a567345a435bcc6981d595b58c4901d88f8aa2facd95ad31081af32d2788a",
+   "download": "https://github.com/PESI3D/ingetrazo-membrane/releases/download/v1.1/membrane_tool.py",
+   "sha256": "27a2c4b6ccabd9aa2719d4721ccc84b8d28af08faba48574b331f724e046b074",
    "ingetrazo": "0.5.7",
    "tags": [
     "architecture",
@@ -545,13 +652,13 @@
   },
   {
    "id": "grading_tool",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-grading",
-   "download": "https://github.com/PESI3D/ingetrazo-grading/releases/download/v1.0/grading_tool.py",
-   "sha256": "42a84d07c28c607032f3e58a4e5b4d16ad173ac7e3eb0e5bbc508e83b078f072",
+   "download": "https://github.com/PESI3D/ingetrazo-grading/releases/download/v1.1/grading_tool.py",
+   "sha256": "14f3d76f4791b65584d0272aff740e9ea62ce0164f1cc3646b59d2b1f63b9191",
    "ingetrazo": "0.5.7",
    "tags": [
     "terrain",
@@ -599,13 +706,13 @@
   },
   {
    "id": "path_select_tool",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-path-select",
-   "download": "https://github.com/PESI3D/ingetrazo-path-select/releases/download/v1.0/path_select_tool.py",
-   "sha256": "7b489ba90dd70b4079a65cc64532f94be5fb6bdefe04f3e802e6917bd791a23e",
+   "download": "https://github.com/PESI3D/ingetrazo-path-select/releases/download/v1.1/path_select_tool.py",
+   "sha256": "d48a621b9f95cd26581842ea51e71d1e989a223d036ae13e8611a9f03348f285",
    "ingetrazo": "0.5.7",
    "tags": [
     "drawing",
@@ -626,13 +733,13 @@
   },
   {
    "id": "weld_tool",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-weld",
-   "download": "https://github.com/PESI3D/ingetrazo-weld/releases/download/v1.0/weld_tool.py",
-   "sha256": "26773d2fbbdacb52faeb0783e371c4e826f65ca0eb241aa4482123cd9e3fd164",
+   "download": "https://github.com/PESI3D/ingetrazo-weld/releases/download/v1.1/weld_tool.py",
+   "sha256": "32c78e0d8e57bc7b9d8671ef9db45f2601f4d3694d7168498b15b4833aafc7ce",
    "ingetrazo": "0.5.7",
    "tags": [
     "drawing",
@@ -654,13 +761,13 @@
   },
   {
    "id": "topology_tool",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Pesi (pesi3d.de)",
    "author_url": "https://github.com/PESI3D",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/PESI3D/ingetrazo-topology",
-   "download": "https://github.com/PESI3D/ingetrazo-topology/releases/download/v1.0/topology_tool.py",
-   "sha256": "dc7ab305f3698a849d6789cd495c7569952b99b791b1d877a0a0a6feacd50189",
+   "download": "https://github.com/PESI3D/ingetrazo-topology/releases/download/v1.1/topology_tool.py",
+   "sha256": "438991aa2f34ada246f15ed4ca7d632cfd0f7398f65f01c041bdc1ae8d97706d",
    "ingetrazo": "0.5.7",
    "tags": [
     "terrain",
