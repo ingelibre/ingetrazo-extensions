@@ -7,7 +7,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/seghier/IngeTrazoPerspectiveMatcher"
 
 download = "https://github.com/seghier/IngeTrazoPerspectiveMatcher/releases/download/v1.0/perspective_matcher.zip"
-sha256 = "fba3b9326ecfd31a9c33546c97ebbf42e5b9be3c6539ad6c2f1871884a2d4eef"
+sha256 = "bf4974ecf495d7b350154a01bd54eddf59d5cba82952a4a73e7d6943331adcdb"
 
 ingetrazo = "0.5.7"
 tags = ["architecture", "drawing", "productivity"]
