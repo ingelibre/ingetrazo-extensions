@@ -15,11 +15,16 @@ tags = ["architecture", "bim", "structures", "productivity"]
 screenshot = "opentrace_bim.webp"
 
 [name]
-es = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁 OpenTrace BIM"
-en = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁 OpenTrace BIM"
-pt = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁 OpenTrace BIM"
+es = "OpenTrace BIM"
+en = "OpenTrace BIM"
+pt = "OpenTrace BIM"
 
 [summary]
+es = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁"
+en = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁"
+pt = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁"
+
+[description]
 es = "BIM paramétrico para arquitectura en IngeTrazo: muros rectos y curvos multicapa, losas, pilares, vigas, huecos, perfiles complejos, presets, materiales nativos y edición gráfica persistente."
 en = "Parametric BIM for architecture in IngeTrazo: straight and curved multilayer walls, slabs, columns, beams, openings, complex profiles, presets, native materials and persistent graphical editing."
 pt = "BIM paramétrico para arquitetura no IngeTrazo: paredes retas e curvas multicamadas, lajes, pilares, vigas, aberturas, perfis complexos, presets, materiais nativos e edição gráfica persistente."
