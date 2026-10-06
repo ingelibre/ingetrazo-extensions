@@ -1,0 +1,24 @@
+id = "opentrace_bim"
+version = "0.11.0"
+author = "Leandro Lopes"
+author_url = "https://github.com/lelopes05"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/lelopes05/opentrace-bim"
+download = "https://github.com/lelopes05/opentrace-bim/releases/download/v0.11.0/OpenTrace_BIM_0.11.0.zip"
+sha256 = "68bf532c46ea8b7a2afd30e0a242f8a7aeaf473d73a5ad6f1a2bae5a7dcae02a"
+
+ingetrazo = "0.5.7"
+
+tags = ["architecture", "bim", "structures", "productivity"]
+
+[name]
+es = "OpenTrace BIM"
+en = "OpenTrace BIM"
+pt = "OpenTrace BIM"
+
+[summary]
+es = "Kit BIM paramétrico para arquitectura: muros rectos y curvos, losas, pilares, vigas, huecos, perfiles complejos, composiciones multicapa y edición paramétrica persistente."
+en = "Parametric BIM toolkit for architecture: straight and curved walls, slabs, columns, beams, openings, complex profiles, multilayer assemblies and persistent parametric editing."
+pt = "Kit BIM paramétrico para arquitetura: paredes retas e curvas, lajes, pilares, vigas, aberturas, perfis complexos, composições multicamadas e edição paramétrica persistente."
