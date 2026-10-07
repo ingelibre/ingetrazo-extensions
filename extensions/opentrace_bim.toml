@@ -20,9 +20,9 @@ en = "OpenTrace BIM"
 pt = "OpenTrace BIM"
 
 [summary]
-es = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁"
-en = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁"
-pt = "🔥 UPDATED! Now with a BRAND NEW UPDATE BUTTON!!! 🔥 Ohh yeah, almost forgot: and the awesome Layer Combinations plugin, with preset templates! 😁"
+es = "BIM paramétrico para arquitectura: muros multicapa rectos y curvos, losas, pilares, vigas y huecos. Ahora con botón para actualizarse y combinaciones de capas con plantillas."
+en = "Parametric BIM for architecture: straight and curved multilayer walls, slabs, columns, beams and openings. Now with an update button and layer combinations with templates."
+pt = "BIM paramétrico para arquitetura: paredes multicamadas retas e curvas, lajes, pilares, vigas e aberturas. Agora com botão de atualização e combinações de camadas com modelos."
 
 [description]
 es = "BIM paramétrico para arquitectura en IngeTrazo: muros rectos y curvos multicapa, losas, pilares, vigas, huecos, perfiles complejos, presets, materiales nativos y edición gráfica persistente."
