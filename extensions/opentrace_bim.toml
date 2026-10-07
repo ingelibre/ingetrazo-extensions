@@ -1,13 +1,13 @@
 id = "opentrace_bim"
-version = "0.11.1"
+version = "0.12.9"
 author = "Leandro Lopes"
 author_url = "https://github.com/lelopes05"
 
 license = "GPL-3.0-or-later"
 
 repository = "https://github.com/lelopes05/opentrace-bim"
-download = "https://github.com/lelopes05/opentrace-bim/releases/download/v0.11.1/OpenTrace_BIM_0.11.1.zip"
-sha256 = "73cc60fc55ea65d93bd80ae88d65a2d930545ae65e859e19d5076218288caa66"
+download = "https://github.com/lelopes05/opentrace-bim/releases/download/v0.12.9/OpenTrace_BIM_0.12.9_UPDATE_LEGACY_0111.zip"
+sha256 = "237de58608fc1c3da51aff86f28dcc8f4deb2d041e2a603e51ff6377906e2a62"
 
 ingetrazo = "0.5.7"
 
