@@ -12,7 +12,7 @@ download = "https://raw.githubusercontent.com/nicolasmarc/ingetrazo-subdiv/v1.0/
 sha256 = "4c721282bfbbcc691793d77c870109539b6848c0bf3c146a16676003ff3c625a"
 ingetrazo = "0.5.7"
 tags = ["architecture", "drawing"]
-# screenshot = "subdiv.png"
+screenshot = "subdiv.png"
 
 [name]
 es = "SubD (modelado por subdivisión)"
