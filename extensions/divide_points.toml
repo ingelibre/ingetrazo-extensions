@@ -6,6 +6,7 @@ author_url = "https://github.com/joejivaros"
 license = "GPL-3.0-or-later"
 
 repository = "https://github.com/joejivaros/Plugin"
+screenshot = "divide_points.png"
 
 download = "https://github.com/joejivaros/Plugin/releases/download/v0.2.1/divide_points-v0.2.1.zip"
 sha256 = "f565e0f94207a46f84a6dcf09408d949fded035664ebe70bb082c01da31abf2c"
