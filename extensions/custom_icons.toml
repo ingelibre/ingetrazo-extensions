@@ -1,0 +1,21 @@
+id = "custom_icons"
+version = "1.1"
+author = "APBureauEtude"
+author_url = "https://github.com/APBureauEtude"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/APBureauEtude/ingetrazo-custom-icons"
+download = "https://raw.githubusercontent.com/APBureauEtude/ingetrazo-custom-icons/v1.1/dist/custom_icons-1.1.zip"
+sha256 = "a1e64734ac8797ebbfe3b6a1fc3d8755cffa9e8a2047ee4ffda26d22a3847e42"
+ingetrazo = "0.5.7"
+tags = ["productivity", "other"]
+screenshot = "custom_icons.jpg"
+
+[name]
+en = "Custom Icons · SVG icon themes"
+es = "Iconos personalizados · Temas de iconos SVG"
+pt = "Ícones personalizados · Temas de ícones SVG"
+
+[summary]
+en = "Replace the toolbar icons and the 3D view cursors with your own SVG icon themes, paired by drag and drop on a page in your browser. Live, no restart."
+es = "Reemplaza los iconos de las barras y los cursores de la vista 3D por sus propios temas de iconos SVG, emparejados arrastrando en una página del navegador. Al instante."
+pt = "Substitui os ícones das barras e os cursores da vista 3D pelos seus próprios temas de ícones SVG, associados arrastando numa página do navegador. Na hora."
