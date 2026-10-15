@@ -1,0 +1,7 @@
+name = "Align Tool"
+description = "Two-phase align tool for IngeTrazo. Pick a source anchor from six cube handles, click the same cube again to toggle per-object mode (green = whole-selection, purple = per-object), click a target object and pick its anchor, then press Enter. Only the source moves; every align is one undo step. Toggle the tool with Shift+S."
+licence = "GPL-3.0-or-later"
+download = "https://gist.githubusercontent.com/koader/168b9ee8c22c9b5fd3c0462d8107bd59/raw/d82521ce8f922fd9744470cff9f8f4771f854efd/align_tool.py"
+author_url = "https://github.com/Koader"
+version = "1.1"
+sha256 = "5e37989a31dbdec289d7028ad2816d936be7fd5967f84dad2fac823e9d5d8b9d"
