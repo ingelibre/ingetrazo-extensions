@@ -1,0 +1,10 @@
+id = "scenes_play"
+version = "0.2.1"
+author = "G. Andreotti"
+author_url = "https://github.com/joejivaros"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/joejivaros/Plugin"
+download = "https://github.com/joejivaros/Plugin/releases/download/scenes_play-v0.2.1/scenes_play-v0.2.1.zip"
+sha256 = "ea4e52579dc1ccdaf5b3f25ad264cd6fdd3daf457b2b4927f73eb36e7cb81cdb"
+ingetrazo = "0.5.8"
+tags = ["rendering", "architecture", "productivity"]
