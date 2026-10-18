@@ -1,0 +1,20 @@
+id = "openings"
+version = "1.0"
+author = "smokey7428"
+author_url = "https://github.com/smokey7428"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/smokey7428/ingetrazo-addons"
+download = "https://github.com/smokey7428/ingetrazo-addons/releases/download/openings-v1.0/openings-1.0.zip"
+sha256 = "d184f98ecbcc331698d1a56675f84f4536a1df2233b6e51cddfb529d73e45c71"
+ingetrazo = "0.5.8"
+tags = ["architecture", "bim", "structures"]
+
+[name]
+es = "Muros, puertas y ventanas"
+en = "Walls, doors and windows"
+pt = "Paredes, portas e janelas"
+
+[summary]
+es = "Dibuja muros por capas siguiendo una polilínea y coloca puertas y ventanas paramétricas en ellos, con sus datos IFC y un metrado por capa."
+en = "Draw layered walls along a polyline and place parametric doors and windows in them, with their IFC data and a take-off per layer."
+pt = "Desenhe paredes em camadas ao longo de uma polilinha e coloque portas e janelas paramétricas nelas, com os seus dados IFC e um orçamento por camada."

@@ -1,0 +1,20 @@
+id = "ifc_editor"
+version = "1.0"
+author = "smokey7428"
+author_url = "https://github.com/smokey7428"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/smokey7428/ingetrazo-addons"
+download = "https://github.com/smokey7428/ingetrazo-addons/releases/download/ifc_editor-v1.0/ifc_editor-1.0.zip"
+sha256 = "17f929157c3084d98c4b3b54590907dda41c1f253cfbf0979976566bad664c0e"
+ingetrazo = "0.5.8"
+tags = ["bim", "import-export"]
+
+[name]
+es = "Datos IFC — lectura y edición"
+en = "IFC data — read and edit"
+pt = "Dados IFC — leitura e edição"
+
+[summary]
+es = "Lee y edita los datos IFC de un modelo: todos los campos y conjuntos de propiedades de cada elemento, con exportación a un .ifc que los conserva."
+en = "Read and edit a model's IFC data: every field and property set of every element, with an .ifc export that keeps them."
+pt = "Leia e edite os dados IFC de um modelo: todos os campos e conjuntos de propriedades de cada elemento, com exportação para um .ifc que os mantém."
