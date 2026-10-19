@@ -1,0 +1,26 @@
+
+id = "unfold"
+version = "1.0"
+author = "Thomas Lai"
+author_url = "https://github.com/tomlai-git"
+
+license = "MIT"
+
+repository = "https://github.com/tomlai-git/Ingetrazo-Plugins"
+
+download = "https://raw.githubusercontent.com/tomlai-git/Ingetrazo-Plugins/v1.0/unfold/TL_Unfold_v10.py"
+sha256 = "23c702f0c2bd2e15dae716c8091d7cb6aa7e905215a3f5efae1dc1bb8d338e71"
+
+ingetrazo = "0.5.7"
+
+tags = ["architecture", "drawing"]
+
+[name]
+es = "IngeTrazo Unfold"
+en = "IngeTrazo Unfold"
+pt = "IngeTrazo Unfold"
+
+[summary]
+es = "Despliega caras seleccionadas de un modelo 3D en una disposición plana mediante bisagras."
+en = "Unfolds selected faces of a 3D model into a flat layout using hinges."
+pt = "Desdobra faces selecionadas de um modelo 3D numa disposição plana usando dobradiças."
