@@ -11,7 +11,7 @@ repository = "https://github.com/tomlai-git/Ingetrazo-Plugins"
 download = "https://raw.githubusercontent.com/tomlai-git/Ingetrazo-Plugins/v1.0/unfold/TL_Unfold_v10.py"
 sha256 = "23c702f0c2bd2e15dae716c8091d7cb6aa7e905215a3f5efae1dc1bb8d338e71"
 
-ingetrazo = "0.5.7"
+ingetrazo = "0.5.8"
 
 tags = ["architecture", "drawing"]
 
