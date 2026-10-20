@@ -1,0 +1,11 @@
+id = "crear_cara"
+name = "Crear Cara desde Aristas"
+version = "1.0.0"
+author = "jrrobredo"
+author_url = "https://github.com/jrrobredo"
+description = "Genera una cara o superficie plana a partir de una selección de aristas cerradas (polígono)."
+tags = ["Modelado", "Geometría"]
+license = "GPL-3.0-or-later"
+download = "https://raw.githubusercontent.com/jrrobredo/ingetrazo-crear-cara/refs/heads/main/crear_cara.py"
+sha256 = "a4d00b791097847ea78bd1e785a65faba791b8a829c95cf691797789e6348a4a"
+tested_with = "0.5.8"
