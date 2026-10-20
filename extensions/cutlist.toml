@@ -1,0 +1,20 @@
+id = "cutlist"
+version = "0.0.1"
+author = "Ronaldo Alves"
+author_url = "https://github.com/ronaldogalves"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/ronaldogalves/cutlist-ingetrazo"
+download = "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.0.1/cutlist-0.0.1.zip"
+sha256 = "7dd51bd9165b96a72d5fa61209c6cad4bdd87b8fe66a0aee7390039bef406fd8"
+ingetrazo = "0.5.9"
+tags = ["fabrication", "import-export"]
+
+[name]
+en = "Cut List · furniture parts and supplier exports"
+es = "Lista de corte · muebles y exportación a proveedores"
+pt = "Lista de corte · móveis e exportação para fornecedores"
+
+[summary]
+en = "A cut list grouped by board and thickness, read from how the model is painted: boards, laminates, edge bands. Exports to CSV, Excel or the clipboard through supplier profiles; CorteCloud and Leo Madeiras included."
+es = "Lista de corte agrupada por tablero y espesor, leída de cómo está pintado el modelo: tableros, laminados, cantos. Exporta a CSV, Excel o el portapapeles con perfiles de proveedor; incluye CorteCloud y Leo Madeiras."
+pt = "Lista de corte agrupada por chapa e espessura, lida de como o modelo está pintado: chapas, laminados, fitas de borda. Exporta CSV, Excel ou área de transferência por perfis de fornecedor; CorteCloud e Leo Madeiras incluídos."
