@@ -1,0 +1,26 @@
+id = "croquis"
+version = "0.13.1"
+author = "Victor Crespo"
+author_url = "https://github.com/vicc3d"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/vicc3d/ingetrazo-croquis"
+
+download = "https://github.com/vicc3d/ingetrazo-croquis/releases/download/v0.13.1/croquis-0.13.1.zip"
+sha256 = "f8be4aa762eeb2e1db50785629d3989965f20703ee4ba022944377d43b7bf623"
+
+ingetrazo = "0.5.9"
+
+tags = ["drawing", "rendering", "architecture"]
+screenshot = "croquis.webp"
+
+[name]
+es = "Croquis"
+en = "Croquis"
+pt = "Croquis"
+
+[summary]
+es = "Dibuja la vista como un croquis de arquitecto a mano alzada: tinta, rotulador, acuarela, rayado o alto contraste, sobre el papel que elijas. Exporta PNG, SVG por capas y PDF."
+en = "Draws the view as an architect's freehand sketch: ink, marker, watercolour, hatching or high-contrast ink, on the paper you choose. Exports PNG, layered SVG and PDF."
+pt = "Desenha a vista como um croqui de arquiteto à mão livre: nanquim, marcador, aquarela, hachura ou alto contraste, no papel que você escolher. Exporta PNG, SVG em camadas e PDF."
