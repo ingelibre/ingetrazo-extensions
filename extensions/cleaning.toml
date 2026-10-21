@@ -1,5 +1,5 @@
 id = "cleaning"
-version = "0.1.0"
+version = "0.1.1"
 author = "G. Andreotti"
 author_url = "https://github.com/joejivaros"
 
@@ -7,8 +7,8 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/joejivaros/Plugin"
 
-download = "https://github.com/joejivaros/Plugin/releases/download/cleaning-v0.1.0/cleaning-v0.1.0.zip"
-sha256 = "f822fd0ab52064dacf370184f1b56ed06d5ea49eb47fc3f4f9c960c027c37dab"
+download = "https://github.com/joejivaros/Plugin/releases/download/cleaning-v0.1.1/cleaning-v0.1.1.zip"
+sha256 = "c6a2c20c69d6f3f444441df44faa1a1ad9d1d3c3144dcaa8fae053ef7e9d8646"
 
 ingetrazo = "0.5.9"
 
