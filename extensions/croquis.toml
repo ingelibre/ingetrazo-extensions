@@ -5,9 +5,9 @@ author_url = "https://github.com/vicc3d"
 
 license = "GPL-3.0-or-later"
 
-repository = "https://github.com/vicc3d/ingetrazo-croquis"
+repository = "https://github.com/vicc3d/croquis-ingetrazo"
 
-download = "https://github.com/vicc3d/ingetrazo-croquis/releases/download/v0.14.0/croquis-0.14.0.zip"
+download = "https://github.com/vicc3d/croquis-ingetrazo/releases/download/v0.14.0/croquis-0.14.0.zip"
 sha256 = "d6d9727a4b88e5ad02cec56ba214921f4423c1cb01dace8f5e5babd4a585b02f"
 
 ingetrazo = "0.5.9"
