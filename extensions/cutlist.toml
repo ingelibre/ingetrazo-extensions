@@ -1,20 +1,20 @@
 id = "cutlist"
-version = "0.0.1"
+version = "0.1.0"
 author = "Ronaldo Alves"
 author_url = "https://github.com/ronaldogalves"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/ronaldogalves/cutlist-ingetrazo"
-download = "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.0.1/cutlist-0.0.1.zip"
-sha256 = "7dd51bd9165b96a72d5fa61209c6cad4bdd87b8fe66a0aee7390039bef406fd8"
+download = "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.1.0/cutlist-0.1.0.zip"
+sha256 = "f576f2c963022e85175aa68385ec0d22c2130a5ccf179bc66fa9ca050f08442d"
 ingetrazo = "0.5.9"
 tags = ["fabrication", "import-export"]
 
 [name]
-en = "Cut List · furniture parts and supplier exports"
-es = "Lista de corte · muebles y exportación a proveedores"
-pt = "Lista de corte · móveis e exportação para fornecedores"
+en = "Cut List · parts, supplier exports, cutting diagrams"
+es = "Lista de corte · piezas, proveedores, planos de corte"
+pt = "Lista de corte · peças, fornecedores, planos de corte"
 
 [summary]
-en = "A cut list grouped by board and thickness, read from how the model is painted: boards, laminates, edge bands. Exports to CSV, Excel or the clipboard through supplier profiles; CorteCloud and Leo Madeiras included."
-es = "Lista de corte agrupada por tablero y espesor, leída de cómo está pintado el modelo: tableros, laminados, cantos. Exporta a CSV, Excel o el portapapeles con perfiles de proveedor; incluye CorteCloud y Leo Madeiras."
-pt = "Lista de corte agrupada por chapa e espessura, lida de como o modelo está pintado: chapas, laminados, fitas de borda. Exporta CSV, Excel ou área de transferência por perfis de fornecedor; CorteCloud e Leo Madeiras incluídos."
+en = "Cut list by board and thickness, read from how the model is painted (boards, laminates, edge bands); supplier exports (CorteCloud, Leo Madeiras); cutting diagrams for the saw, printed as PDF."
+es = "Lista de corte por tablero y espesor, leída de la pintura del modelo (tableros, laminados, cantos); exportación a proveedores (CorteCloud, Leo Madeiras); planos de corte para la sierra en PDF."
+pt = "Lista de corte por chapa e espessura, lida da pintura do modelo (chapas, laminados, fitas); exportação para fornecedores (CorteCloud, Leo Madeiras); planos de corte para a serra em PDF."
