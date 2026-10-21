@@ -1,0 +1,25 @@
+id = "cleaning"
+version = "0.1.0"
+author = "G. Andreotti"
+author_url = "https://github.com/joejivaros"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/joejivaros/Plugin"
+
+download = "https://github.com/joejivaros/Plugin/releases/download/cleaning-v0.1.0/cleaning-v0.1.0.zip"
+sha256 = "f822fd0ab52064dacf370184f1b56ed06d5ea49eb47fc3f4f9c960c027c37dab"
+
+ingetrazo = "0.5.9"
+
+tags = ["productivity", "drawing"]
+
+[name]
+en = "Cleaning"
+es = "Limpieza"
+pt = "Limpeza"
+
+[summary]
+en = "Cleans the model in one undo step: stray edges, degenerate, duplicate and coplanar faces, split edges, identical and unused materials, unused layers, empty groups. Pick what to clean; Analyse counts it first."
+es = "Limpia el modelo en un paso de deshacer: aristas sueltas, caras degeneradas, duplicadas y coplanares, aristas divididas, materiales idénticos y sin usar, capas sin usar, grupos vacíos. Analizar lo cuenta antes."
+pt = "Limpa o modelo em um só passo de desfazer: arestas soltas, faces degeneradas, duplicadas e coplanares, arestas divididas, materiais idênticos e sem uso, camadas sem uso, grupos vazios. Analisar conta antes."
