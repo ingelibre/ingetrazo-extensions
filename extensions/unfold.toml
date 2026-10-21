@@ -14,6 +14,7 @@ sha256 = "23c702f0c2bd2e15dae716c8091d7cb6aa7e905215a3f5efae1dc1bb8d338e71"
 ingetrazo = "0.5.8"
 
 tags = ["architecture", "drawing"]
+screenshot = "unfold.png"
 
 [name]
 es = "IngeTrazo Unfold"
