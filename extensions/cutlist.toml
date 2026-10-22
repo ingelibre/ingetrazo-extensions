@@ -8,6 +8,7 @@ download = "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download
 sha256 = "f576f2c963022e85175aa68385ec0d22c2130a5ccf179bc66fa9ca050f08442d"
 ingetrazo = "0.5.9"
 tags = ["fabrication", "import-export"]
+screenshot = "cutlist.png"
 
 [name]
 en = "Cut List · parts, supplier exports, cutting diagrams"
