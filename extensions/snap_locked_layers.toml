@@ -1,0 +1,18 @@
+id = "snap_locked_layers"
+version = "0.05"
+author = "vonkozy"
+author_url = "https://github.com/vonkozy"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/vonkozy/IngeTenzo-extensions"
+download = "https://raw.githubusercontent.com/vonkozy/IngeTenzo-extensions/V1.0.0/snap_locked_layers.py"
+sha256 = "aacd33ac223e07f3f3bd54d6d956c333cf8e34c661870701c5d48b6556ca0122"
+ingetrazo = "0.5.9"
+tags = ["productivity"]
+
+[name]
+en = "Snap to locked layers"
+es = "Imantar en capas bloqueadas"
+
+[summary]
+en = "Snap to corners, midpoints and edges of a visible locked layer without unlocking it. A hidden layer is left alone."
+es = "Imanta en esquinas, puntos medios y aristas de una capa bloqueada y visible, sin desbloquearla. Una capa oculta queda fuera."
