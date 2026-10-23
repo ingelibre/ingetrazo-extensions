@@ -1,0 +1,25 @@
+# Entry for github.com/ingelibre/ingetrazo-extensions → extensions/motion.toml
+# Replace the sha256 if the zip was rebuilt
+# (python tools/build_zip.py prints it).
+
+id = "motion"
+version = "0.8.0"
+author = "Nicolas Marc"
+author_url = "https://github.com/nicolasmarc"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/nicolasmarc/ingetrazo-motion"
+download = "https://raw.githubusercontent.com/nicolasmarc/ingetrazo-motion/v0.8.0/dist/motion-0.8.0.zip"
+sha256 = "859c73ce01007fe720b841d77d3e688e671976c3c4545d343d47cb065b3ce67b"
+ingetrazo = "0.5.9"
+tags = ["fabrication", "analysis", "import-export"]
+screenshot = "motion.png"
+
+[name]
+es = "Motion (mecanismos)"
+en = "Motion (mechanisms)"
+pt = "Motion (mecanismos)"
+
+[summary]
+es = "Mecanismos sobre el modelo: pivotes, correderas, guías, engranajes, varios motores; dinámica y choques; animación, colisiones, holgura mínima, vídeo. Importa ensamblajes STEP."
+en = "Mechanisms on your model: pivots, slides, rails, gears, several motors; dynamics and shocks; playback, collisions, minimum clearance, split-screen video. Imports STEP assemblies."
+pt = "Mecanismos no modelo: pivôs, corrediças, trilhos, engrenagens, vários motores; dinâmica e choques; animação, colisões, folga mínima, vídeo. Importa montagens STEP."
