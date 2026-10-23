@@ -1,0 +1,18 @@
+id = "camera_history"
+version = "0.11"
+author = "vonkozy"
+author_url = "https://github.com/vonkozy"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/vonkozy/IngeTenzo-extensions"
+download = "https://raw.githubusercontent.com/vonkozy/IngeTenzo-extensions/V1.0.0/camera_history.py"
+sha256 = "aba3ba32060a3ed7c756f23f4b1632bcf40589ba601f4eea3a4f81054c92f9f1"
+ingetrazo = "0.5.9"
+tags = ["productivity"]
+
+[name]
+en = "Camera history"
+es = "Historial de cámara"
+
+[summary]
+en = "Step through the last ten camera stops with Alt+Left and Alt+Right. A stop is kept 0.1 s after the mouse button or the scroll wheel rests."
+es = "Recorre las últimas diez paradas de la cámara con Alt+Left y Alt+Right. Una parada se guarda 0,1 s después de soltar el ratón o la rueda."

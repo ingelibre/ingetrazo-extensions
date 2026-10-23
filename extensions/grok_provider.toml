@@ -1,0 +1,18 @@
+id = "grok_provider"
+version = "0.01"
+author = "vonkozy"
+author_url = "https://github.com/vonkozy"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/vonkozy/IngeTenzo-extensions"
+download = "https://raw.githubusercontent.com/vonkozy/IngeTenzo-extensions/V1.0.0/grok_provider.py"
+sha256 = "ec59053d7b90b7cc05884679b9b8ad704a5f1190baa09c2faa7d12d4dcf2f7f2"
+ingetrazo = "0.5.9"
+tags = ["productivity"]
+
+[name]
+en = "xAI Grok"
+es = "xAI Grok"
+
+[summary]
+en = "Adds xAI (Grok) to the built-in AI Assistant. Calls go to api.x.ai. The key stays in your user profile, not in the .igz."
+es = "Añade xAI (Grok) al asistente de IA. Las llamadas van a api.x.ai. La clave queda en tu perfil, no en el .igz."
