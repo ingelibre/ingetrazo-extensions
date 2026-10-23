@@ -1,0 +1,24 @@
+# Extension manifest for IngeTrazo Catalog (https://ingetrazo.com/extensiones)
+
+id = "lines_connect"
+version = "1.3.0"
+author = "Aymen Alhaddad"
+author_url = "https://github.com/aymenart"
+
+license = "GPL-3.0-or-later"
+repository = "https://github.com/aymenart/lines_connect_ingetrazo"
+
+download = "https://github.com/aymenart/lines_connect_ingetrazo/releases/download/v1.3.0/lines_connect_ingetrazo_v1.3.0.zip"
+sha256 = "b28453d0712b42bed7e55aeab8c847b3c06b6c86b2001942bd22d640ef4d4d6d"
+
+ingetrazo = "0.5.8"
+tags = ["drawing", "productivity", "architecture"]
+screenshot = "lines_connect.png"
+
+[name]
+en = "Lines Connect"
+es = "Conectar Líneas (Lines Connect)"
+
+[summary]
+en = "Interactive 3D edge connection, T-junction trimming, fillet corner extension, gap closing, and arc-to-circle completion."
+es = "Conexión interactiva 3D de aristas, recorte en T, extensión a esquina, cierre de huecos y arco a círculo completo."

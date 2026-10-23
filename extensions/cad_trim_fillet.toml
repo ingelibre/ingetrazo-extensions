@@ -1,0 +1,25 @@
+# Extension manifest for IngeTrazo Catalog (https://ingetrazo.com/extensiones)
+# Submit this file to: https://github.com/ingelibre/ingetrazo-extensions/tree/main/extensions/cad_trim_fillet.toml
+
+id = "cad_trim_fillet"
+version = "1.0.0"
+author = "Aymen Alhaddad"
+author_url = "https://github.com/aymenart"
+
+license = "GPL-3.0-or-later"
+repository = "https://github.com/aymenart/cad_trim_fillet"
+
+download = "https://github.com/aymenart/cad_trim_fillet/releases/download/v1.0.0/cad_trim_fillet_v1.0.0.zip"
+sha256 = "21fb9528f1eaa0a9e064d72f0ae1b6986f88acc2831633ca31b9e8423e411f36"
+
+ingetrazo = "0.5.8"
+tags = ["drawing", "cad", "productivity", "architecture"]
+screenshot = "cad_trim_fillet.png"
+
+[name]
+en = "CAD Trim & Fillet"
+es = "CAD Trim y Fillet"
+
+[summary]
+en = "Professional CAD trimming suite with Quick Trim, Boundary Trim, tangent Fillet arcs with real-time VCB radius entry, and Chamfer bevels."
+es = "Suite profesional CAD con Recorte Rápido, Recorte por Límite, Arcos de Empalme con radio VCB en tiempo real y Chaflán."
