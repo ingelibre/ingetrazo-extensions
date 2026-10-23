@@ -1,4 +1,4 @@
-﻿# IngeTrazo Catalog Entry for Parametric Node Editor
+# IngeTrazo Catalog Entry for Parametric Node Editor
 # Copy this file to extensions/node_editor.toml in https://github.com/ingelibre/ingetrazo-extensions
 
 id = "node_editor"
@@ -8,7 +8,7 @@ author_url = "https://github.com/seghier"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/seghier/IngeTrazoNodeEditor"
 download = "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.5/node_editor.zip"
-sha256 = "6916ce18aa154404d78c3033d8348e2138161626ca0a81a47bfaf035358ae841"
+sha256 = "03baf0e537263eb58341a6c9114e052c324ff488e1846123f45898df6a6fdbe5"
 ingetrazo = "0.5.7"
 tags = ["productivity", "architecture"]
 screenshot = "node_editor.png"
