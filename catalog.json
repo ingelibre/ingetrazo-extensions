@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-23T23:09Z",
+ "generated": "2026-10-24T18:30Z",
  "tags": [
   "analysis",
   "architecture",
@@ -691,13 +691,13 @@
   },
   {
    "id": "node_editor",
-   "version": "1.5",
+   "version": "1.7",
    "author": "seghier",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/IngeTrazoNodeEditor",
-   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.5/node_editor.zip",
-   "sha256": "bac0a0a2410b8705d7bdca669e5de234ecf26e9d71cea21eb99fabd83d41e7a8",
+   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.7/node_editor.zip",
+   "sha256": "961d40cbd27c292c8119a14c77494d20ec8a275c56648e9556b2c5036149b7cb",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
