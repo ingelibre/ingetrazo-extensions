@@ -1,0 +1,21 @@
+id = "terraroad"
+version = "0.8.0-dev"
+author = "mtak35"
+author_url = "https://github.com/mtak35"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/mtak35/TerraRoad"
+download = "https://raw.githubusercontent.com/mtak35/TerraRoad/v0.8.0-dev/releases/TerraRoad-IngeTrazo-0.8.0-dev-catalog.zip"
+sha256 = "c1ae7262edf384eac0539aca100c2bef8aa43ffe1108148d445930609443eafc"
+ingetrazo = "0.5.9"
+tags = ["drawing", "terrain", "productivity", "import-export"]
+screenshot = "terraroad.png"
+
+[name]
+en = "TerraRoad"
+es = "TerraRoad"
+pt = "TerraRoad"
+
+[summary]
+en = "Road design development preview: centerlines, face roads, junctions, roundabouts, curbs, sidewalks, markings, lighting and map tracing. Metric/imperial units."
+es = "Diseño vial en desarrollo: ejes, vías desde caras, cruces, rotondas, bordillos, aceras, marcas, alumbrado y trazado sobre mapas. Unidades métricas e imperiales."
+pt = "Projeto viário em desenvolvimento: eixos, vias a partir de faces, cruzamentos, rotatórias, meios-fios, calçadas, marcações, iluminação e traçado sobre mapas. Unidades métricas e imperiais."
