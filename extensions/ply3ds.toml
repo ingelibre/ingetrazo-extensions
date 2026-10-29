@@ -8,6 +8,7 @@ download = "https://github.com/nicolasmarc/ingetrazo-ply3ds/releases/download/v0
 sha256 = "0b6bfaef7eb954b31ba779c82a68090e428e5af1955b597cb3822b3136ddab2c"
 ingetrazo = "0.5.10"
 tags = ["import-export", "analysis"]
+screenshot = "ply3ds.png"
 
 [name]
 en = "Export PLY / 3DS by material"
