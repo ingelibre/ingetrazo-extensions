@@ -1,0 +1,45 @@
+# Copy this file to extensions/<id>.toml and fill it in.
+# Copia este archivo a extensions/<id>.toml y rellénalo.
+# Copie este arquivo para extensions/<id>.toml e preencha.
+
+# Same as the file name: lowercase letters, digits and _.
+id = "v_menu"
+version = "0.1"
+author = "priit123"
+# author_url = "https://github.com/you"            # optional
+
+# SPDX name of a free licence: MIT, GPL-3.0-or-later, Apache-2.0, BSD-3-Clause…
+license = "GPL-3.0-or-later"
+
+# Where people read your code.
+repository = "https://github.com/priit123/ingetrazo-v-menu"
+
+# The exact file IngeTrazo users will install: a .py file, or a .zip holding
+# ONE folder with an __init__.py. Use a TAG or a COMMIT in the address, not
+# «main»: what is reviewed must not change afterwards.
+download = "https://github.com/priit123/ingetrazo-v-menu/archive/refs/tags/0.1.zip"
+# sha256sum my_extension.py      (Windows: certutil -hashfile my_extension.py SHA256)
+# If it is wrong, the check tells you the right one.
+sha256 = "11fec3c7e199637f1842d93e5c06d3c3a022fb4decbf7cf89e55d82b69e2cbc5"
+
+# The IngeTrazo version you tested with.
+ingetrazo = "0.5.11"
+
+# 1 to 4 of: architecture, bim, structures, terrain, drawing, analysis,
+# import-export, rendering, fabrication, productivity, education, other
+tags = ["productivity"]
+
+# Optional: a picture in screenshots/ (png, jpg or webp, under 600 KB, ~1200×750).
+# screenshot = "my_extension.png"
+
+# At least Spanish OR English. Portuguese is welcome. Machine translation is
+# fine — the page shows the visitor's language when it is there.
+[name]
+es = "V Menu"
+en = "V Menu"
+pt = "V Menu"
+
+[summary] # one or two sentences, up to 240 characters
+es = "Un menú radial rápido para un acceso ágil a las herramientas con la tecla V."
+en = "A fast radial menu for quick tool access bound to shortcut key V."
+pt = "Um menu radial rápido para acesso ágil às ferramentas com a tecla V."
