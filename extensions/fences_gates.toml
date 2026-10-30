@@ -1,0 +1,20 @@
+id = "fences_gates"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/fences_gates.py"
+sha256 = "1b80e02a6252cfef9e08337502afa9d60a680e7929b9b551d1e60987874f80b5"
+ingetrazo = "0.5.11"
+tags = ["architecture"]
+
+[name]
+es = "Vallas y puertas 3D"
+en = "3D Fences & Gates"
+pt = "Cercas e portões 3D"
+
+[summary]
+es = "Vallas de estacas, de tablas, de paneles, de postes y travesaños, de alambre, de acero y rejas sobre murete, con puertas y envejecido."
+en = "Picket, close-boarded, panel, post and rail, post and wire, steel palisade and iron railings on a dwarf wall, with gates and weathering."
+pt = "Cercas de estacas, de tábuas, de painéis, de postes e travessas, de arame, de aço e gradeamentos sobre muro, com portões e envelhecimento."

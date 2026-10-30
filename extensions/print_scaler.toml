@@ -1,0 +1,20 @@
+id = "print_scaler"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/print_scaler.py"
+sha256 = "5715b0e0789fbb89dacd2ff003f7fd604177157f0871439bf75dc238284f35bd"
+ingetrazo = "0.5.11"
+tags = ["fabrication"]
+
+[name]
+es = "Escalador para impresión 3D"
+en = "3D Print Scaler"
+pt = "Escalador para impressão 3D"
+
+[summary]
+es = "Escala el objeto elegido a una escala (1:50, 1:100...) para imprimir en 3D y comprueba que cabe en la cama."
+en = "Scales the selected object to a chosen scale (1:50, 1:100 ...) for 3D printing and checks it fits your print bed."
+pt = "Escala o objeto escolhido para uma escala (1:50, 1:100...) para impressão 3D e verifica se cabe na mesa."

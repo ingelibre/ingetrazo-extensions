@@ -1,0 +1,20 @@
+id = "loft"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/loft.py"
+sha256 = "10dae28340f40c06aa583f67f59f08d3d20cdcc0090b30a961b834ffea87f8c9"
+ingetrazo = "0.5.11"
+tags = ["drawing"]
+
+[name]
+es = "Transición 3D"
+en = "3D Loft"
+pt = "Transição 3D"
+
+[summary]
+es = "Crea un sólido entre dos o más perfiles, por ejemplo de un cuadrado a un círculo."
+en = "Makes a solid between two or more profile faces, such as a square into a circle."
+pt = "Cria um sólido entre dois ou mais perfis, por exemplo de um quadrado para um círculo."
