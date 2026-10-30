@@ -1,0 +1,20 @@
+id = "soil_waste_pipes"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/soil_waste_pipes.py"
+sha256 = "5087d932aa3aa6d42ee61cc57b5ab0825ec928e8924474f7dab86a050e543e63"
+ingetrazo = "0.5.11"
+tags = ["architecture"]
+
+[name]
+es = "Tuberías de desagüe 3D"
+en = "3D Soil & Waste Pipes"
+pt = "Tubos de esgoto 3D"
+
+[summary]
+es = "Bajantes de saneamiento y tuberías de desagüe exteriores con piezas que encajan entre sí, con preajustes."
+en = "Soil stacks and outside waste pipes with fittings that join onto each other, with presets."
+pt = "Tubos de queda de esgoto e tubos de descarga exteriores com acessórios que encaixam entre si, com predefinições."

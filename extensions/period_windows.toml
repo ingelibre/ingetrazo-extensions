@@ -1,0 +1,20 @@
+id = "period_windows"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/period_windows.py"
+sha256 = "241502f9ce653fa69a464907e0a56a1b0dd74299da87a150fce0c75926bf4401"
+ingetrazo = "0.5.11"
+tags = ["architecture"]
+
+[name]
+es = "Ventanas de época 3D"
+en = "3D Period Windows"
+pt = "Janelas de época 3D"
+
+[summary]
+es = "Ventanas de guillotina, abatibles e industriales que se ajustan a la cara elegida, con arcos, cristales, alféizares, dinteles y claves."
+en = "Sash, casement and industrial windows that fit the selected face, with round tops, panes, sills, heads and keystones."
+pt = "Janelas de guilhotina, de batente e industriais que se ajustam à face escolhida, com arcos, vidros, peitoris, vergas e fechos."

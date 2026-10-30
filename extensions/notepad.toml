@@ -1,0 +1,20 @@
+id = "notepad"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/notepad.py"
+sha256 = "28a5021bdc9105f35656f9c98f5925025266ce0ec6ef91a13cb2e075d993fad6"
+ingetrazo = "0.5.11"
+tags = ["productivity"]
+
+[name]
+es = "Bloc de notas 3D"
+en = "3D Notepad"
+pt = "Bloco de notas 3D"
+
+[summary]
+es = "Un bloc de notas que queda en pantalla y se guarda solo, con un conversor de medidas reales a maqueta."
+en = "A note pad that stays on screen and saves itself, with a real-to-model size converter."
+pt = "Um bloco de notas que fica no ecrã e se guarda sozinho, com um conversor de medidas reais para maqueta."

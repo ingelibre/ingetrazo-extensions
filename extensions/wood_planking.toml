@@ -1,0 +1,20 @@
+id = "wood_planking"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/wood_planking.py"
+sha256 = "f425fa22ee5961fa7dc0dbc2db011981488485378574c472befc7bf4487e84dd"
+ingetrazo = "0.5.11"
+tags = ["architecture", "fabrication"]
+
+[name]
+es = "Tablas de madera 3D"
+en = "3D Wood Planking"
+pt = "Tábuas de madeira 3D"
+
+[summary]
+es = "Cubre una cara con tablas: lisas, machihembradas, solapadas, de tingladillo, con tapajuntas o troncos, con remates y efectos de abandono (podridas, agujeros, torcidas)."
+en = "Covers a face with timber boards: plain, V-jointed, shiplap, weatherboard, board and batten or logs, with trims and derelict effects (rot, holes, missing, skewed)."
+pt = "Cobre uma face com tábuas: lisas, macho-fêmea, sobrepostas, com mata-juntas ou troncos, com remates e efeitos de abandono (podres, furos, tortas)."

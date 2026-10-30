@@ -1,0 +1,20 @@
+id = "brick_block_studio"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/brick_block_studio.py"
+sha256 = "58fcf433c4cf481a009d1052ae114416411fc6e5d407d7fe6f50e7610968392e"
+ingetrazo = "0.5.11"
+tags = ["architecture", "fabrication"]
+
+[name]
+es = "Estudio de ladrillos y bloques 3D"
+en = "3D Brick & Block Studio"
+pt = "Estúdio de tijolos e blocos 3D"
+
+[summary]
+es = "Ladrillo y bloque en 3D sobre una cara: aparejos, desfases, hiladas a tizón y a sardinel, envejecido, preajustes y cortes exactos en huecos. Sólidos cerrados para imprimir."
+en = "3D brick and block work on a wall face: bonds, row offsets, header and soldier courses, weathering, presets and exact cuts round openings. Closed solids ready to print."
+pt = "Alvenaria 3D de tijolo e bloco numa face: aparelhos, desfasamentos, fiadas, envelhecimento, predefinições e cortes exatos nas aberturas. Sólidos fechados para impressão."

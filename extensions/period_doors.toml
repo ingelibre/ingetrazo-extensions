@@ -1,0 +1,20 @@
+id = "period_doors"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/period_doors.py"
+sha256 = "a363d2cd4d3b0c7b6fbadeda97f61630842ef989e56530def4cbc9369fbf4219"
+ingetrazo = "0.5.11"
+tags = ["architecture"]
+
+[name]
+es = "Puertas de época 3D"
+en = "3D Period Doors"
+pt = "Portas de época 3D"
+
+[summary]
+es = "Puertas de cuarterones, acristaladas, de tablas, de establo y correderas que se ajustan a la cara elegida, con montantes, escalones, dinteles y claves."
+en = "Panelled, half-glazed, ledged and braced, stable and sliding goods doors that fit the selected face, with fanlights, steps, heads and keystones."
+pt = "Portas almofadadas, envidraçadas, de tábuas, de estábulo e de correr que se ajustam à face escolhida, com bandeiras, degraus, vergas e fechos."
