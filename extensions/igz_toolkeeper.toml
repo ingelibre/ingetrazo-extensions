@@ -8,6 +8,7 @@ download = "https://github.com/PedroE200/ingetrazo-toolkeeper/releases/download/
 sha256 = "5ec185fe84036b3a53e81cdf2d9d560519ca9ff5d0e7a9b7a101dc93149e8790"
 ingetrazo = "0.5.8"
 tags = ["productivity"]
+screenshot = "igz_toolkeeper.png"
 
 [name]
 es = "Toolkeeper"
