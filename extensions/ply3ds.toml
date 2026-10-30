@@ -1,0 +1,21 @@
+id = "ply3ds"
+version = "0.1.0"
+author = "Nicolas Marc"
+author_url = "https://github.com/nicolasmarc"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/nicolasmarc/ingetrazo-ply3ds"
+download = "https://github.com/nicolasmarc/ingetrazo-ply3ds/releases/download/v0.1.0/ply3ds-0.1.0.zip"
+sha256 = "0b6bfaef7eb954b31ba779c82a68090e428e5af1955b597cb3822b3136ddab2c"
+ingetrazo = "0.5.10"
+tags = ["import-export", "analysis"]
+screenshot = "ply3ds.png"
+
+[name]
+en = "Export PLY / 3DS by material"
+es = "Exportar PLY / 3DS por material"
+pt = "Exportar PLY / 3DS por material"
+
+[summary]
+en = "Exports the visible model to PLY or 3DS with one surface group per material, for acoustic simulation tools such as I-Simpa (#102)."
+es = "Exporta el modelo visible a PLY o 3DS con un grupo de superficies por material, para programas de acústica como I-Simpa (#102)."
+pt = "Exporta o modelo visível para PLY ou 3DS com um grupo de superfícies por material, para programas de acústica como o I-Simpa (#102)."
