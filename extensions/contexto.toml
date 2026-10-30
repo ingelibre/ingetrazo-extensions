@@ -1,0 +1,26 @@
+id = "contexto"
+version = "0.3.3"
+author = "Victor Crespo"
+author_url = "https://github.com/vicc3d"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/vicc3d/contexto-ingetrazo"
+
+download = "https://github.com/vicc3d/contexto-ingetrazo/releases/download/v0.3.3/contexto-0.3.3.zip"
+sha256 = "28c6f06f037993d865b9d404baa72f35766d6b22bc835fdf36d26958e0840ee3"
+
+ingetrazo = "0.5.11"
+
+tags = ["architecture", "terrain"]
+screenshot = "contexto.webp"
+
+[name]
+es = "Contexto"
+en = "Contexto"
+pt = "Contexto"
+
+[summary]
+es = "Trae la ciudad alrededor de tu proyecto desde OpenStreetMap: edificios con su altura (también por partes), calles, áreas verdes, agua, árboles y usos de suelo, en la ubicación de la pestaña Terreno."
+en = "Brings the city around your project from OpenStreetMap: buildings at their height (parts included), streets, green areas, water, trees and land use, at the Terrain tab's location."
+pt = "Traz a cidade ao redor do seu projeto a partir do OpenStreetMap: edifícios com sua altura (também por partes), ruas, áreas verdes, água, árvores e usos do solo, na localização da aba Terreno."
