@@ -1,0 +1,24 @@
+
+id = "blackfox_catenary"
+version = "1.0.0"
+author = "David Mavrov"
+author_url = "https://github.com/davidsmavrov-debug"
+license = "MIT"
+repository = "https://github.com/davidsmavrov-debug/BlackFox-CAD"
+
+download = "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/catenary-v1.0.0/IngeTrazo%20Extensions/Catenary/BlackFox_Catenary_v1_0_0.py"
+
+sha256 = "ebf18d0d2d4c42c823a7cb0ec55f19295d0ccc8f145914ffac1e85a7af43ef7b"
+
+ingetrazo = "0.5.11"
+tags = ["structures", "drawing", "education"]
+
+[name]
+en = "BlackFox Catenary"
+es = "BlackFox Catenaria"
+pt = "BlackFox Catenária"
+
+[summary]
+en = "Generate mathematically accurate 3D catenary curves from selected endpoints or precise XYZ coordinates and cable length."
+es = "Genera curvas catenarias 3D matemáticamente precisas a partir de puntos seleccionados o coordenadas XYZ y longitud del cable."
+pt = "Gera curvas catenárias 3D matematicamente precisas a partir de pontos selecionados ou coordenadas XYZ e comprimento do cabo."
