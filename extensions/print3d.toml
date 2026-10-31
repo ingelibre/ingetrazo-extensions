@@ -1,0 +1,21 @@
+id = "print3d"
+version = "0.4.4"
+author = "Nicolas Marc"
+author_url = "https://github.com/nicolasmarc"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/nicolasmarc/ingetrazo-print3d"
+download = "https://github.com/nicolasmarc/ingetrazo-print3d/releases/download/v0.4.4/print3d-0.4.4.zip"
+sha256 = "6f5af84c36f1252eb038bfdf47ef391490d79247083ccc26a4bf466da3d00396"
+ingetrazo = "0.5.11"
+tags = ["fabrication", "analysis", "import-export"]
+screenshot = "print3d.png"
+
+[name]
+en = "3D Print"
+es = "Impresión 3D"
+pt = "Impressão 3D"
+
+[summary]
+en = "Gets a model ready for a 3D printer: overhangs, wall thickness, trapped cavities, gaps between parts, size on the bed, best orientation, lay flat on a face, hole repair, gyroid infill under a skin, and 3MF (with colours) or STL export at the print scale."
+es = "Prepara un modelo para una impresora 3D: voladizos, espesor de pared, cavidades cerradas, holguras entre piezas, tamaño en la cama, orientación óptima, apoyar sobre una cara, reparación de agujeros, relleno giroide bajo una piel y exportación a 3MF (con colores) o STL a la escala de impresión."
+pt = "Prepara um modelo para uma impressora 3D: balanços, espessura de parede, cavidades fechadas, folgas entre peças, tamanho na mesa, orientação ideal, apoiar sobre uma face, reparo de furos, preenchimento giroide sob uma pele e exportação para 3MF (com cores) ou STL na escala de impressão."
