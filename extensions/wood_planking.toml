@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "f425fa22ee5961fa7dc0dbc2db011981488485378574c472befc7bf4487e84dd"
 ingetrazo = "0.5.11"
 tags = ["architecture", "fabrication"]
+screenshot = "wood_planking.webp"
 
 [name]
 es = "Tablas de madera 3D"
