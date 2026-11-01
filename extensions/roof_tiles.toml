@@ -1,13 +1,14 @@
 id = "roof_tiles"
-version = "1.0"
+version = "1.1"
 author = "Phillip Edwards (Eddy)"
 author_url = "https://github.com/eddy-99"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/roof_tiles.py"
-sha256 = "2df40ebcf90529c5237ce825b1bc44c5524d4899e0f55b5446efb8fe44d15178"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_roof_tiles.py"
+sha256 = "2f358ab7adfba0c5073b08117ceba97930d5bb387a26f242fbc1d8b4e751bf66"
 ingetrazo = "0.5.11"
 tags = ["architecture", "fabrication"]
+screenshot = "roof_tiles.webp"
 
 [name]
 es = "Tejas 3D"
