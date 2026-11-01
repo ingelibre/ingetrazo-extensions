@@ -1,13 +1,14 @@
 id = "fences_gates"
-version = "1.0"
+version = "1.1"
 author = "Phillip Edwards (Eddy)"
 author_url = "https://github.com/eddy-99"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/fences_gates.py"
-sha256 = "1b80e02a6252cfef9e08337502afa9d60a680e7929b9b551d1e60987874f80b5"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_fences_gates.py"
+sha256 = "a943238a94c0b2f61032bccf9d8d92261a2320fa2b1af8ca9b44d86a936412c7"
 ingetrazo = "0.5.11"
 tags = ["architecture"]
+screenshot = "fences_gates.webp"
 
 [name]
 es = "Vallas y puertas 3D"
