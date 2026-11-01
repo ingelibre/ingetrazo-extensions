@@ -1,0 +1,21 @@
+id = "chimneys"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_chimneys.py"
+sha256 = "7f41f63b6362d61c2db7411a2be2cec422ecf3d9f1a62233f8a8d23fd2b12216"
+ingetrazo = "0.5.11"
+tags = ["architecture", "fabrication"]
+screenshot = "chimneys.webp"
+
+[name]
+es = "Chimeneas 3D"
+en = "3D Chimneys"
+pt = "Chaminés 3D"
+
+[summary]
+es = "Chimeneas de ladrillo cortadas a la pendiente del tejado, con remate, cumbrera de mortero y sombreretes; chimeneas industriales; ventiladores y veletas."
+en = "Brick chimney stacks cut to the roof slope, with oversailing courses, flaunching and pots; industrial chimneys; chimney pots; roof ventilators and weather vanes."
+pt = "Chaminés de tijolo cortadas à inclinação do telhado, com cornija, argamassa e potes; chaminés industriais; ventiladores e cata-ventos."
