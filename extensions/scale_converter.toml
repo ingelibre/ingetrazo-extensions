@@ -1,11 +1,11 @@
 id = "scale_converter"
-version = "1.0"
+version = "1.1"
 author = "Phillip Edwards (Eddy)"
 author_url = "https://github.com/eddy-99"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/scale_converter.py"
-sha256 = "f31e9589a5e93eed46868f3c120b5f03e87d649b72c7382b74229b6543a56050"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_scale_converter.py"
+sha256 = "3db0fb0d99d03cd23e91260f5589d22b3185a6050efa3be63ec8d92eec0450e2"
 ingetrazo = "0.5.11"
 tags = ["productivity"]
 
