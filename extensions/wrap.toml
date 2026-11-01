@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "5eeb0d12836cd675aa9bae91ebbf8f4963ddd877eadfc29950ac12cb24f244f1"
 ingetrazo = "0.5.11"
 tags = ["architecture", "fabrication"]
+screenshot = "wrap.webp"
 
 [name]
 es = "Envolver 3D"
