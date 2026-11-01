@@ -1,13 +1,14 @@
 id = "period_windows"
-version = "1.0"
+version = "1.1"
 author = "Phillip Edwards (Eddy)"
 author_url = "https://github.com/eddy-99"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/period_windows.py"
-sha256 = "241502f9ce653fa69a464907e0a56a1b0dd74299da87a150fce0c75926bf4401"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_period_windows.py"
+sha256 = "f2c8dd5bca6dd4bd865f9a8875629cd077fbb3ecd45ec6b09d8de59859f4c973"
 ingetrazo = "0.5.11"
 tags = ["architecture"]
+screenshot = "period_windows.webp"
 
 [name]
 es = "Ventanas de época 3D"
