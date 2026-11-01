@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "a363d2cd4d3b0c7b6fbadeda97f61630842ef989e56530def4cbc9369fbf4219"
 ingetrazo = "0.5.11"
 tags = ["architecture"]
+screenshot = "period_doors.webp"
 
 [name]
 es = "Puertas de época 3D"
