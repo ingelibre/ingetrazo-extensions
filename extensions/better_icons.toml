@@ -1,0 +1,21 @@
+id = "better_icons"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_better_icons.py"
+sha256 = "9c9fd23ca94c646f63db4eb612a909c16f579afcdd1fa0b19939d53cf9272aaf"
+ingetrazo = "0.5.11"
+tags = ["productivity"]
+screenshot = "better_icons.webp"
+
+[name]
+es = "Iconos mejores 3D"
+en = "3D Better Icons"
+pt = "Ícones melhores 3D"
+
+[summary]
+es = "Iconos más claros y en color para la barra de herramientas de IngeTrazo, con tamaño ajustable y nombres bajo los iconos."
+en = "Clearer colour icons for IngeTrazo's own toolbar buttons, with adjustable icon size and optional names under the icons."
+pt = "Ícones mais claros e a cores para a barra de ferramentas do IngeTrazo, com tamanho ajustável e nomes sob os ícones."
