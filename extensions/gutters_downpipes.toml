@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "703f12d1510f692b18887c972113169cf6907a7603250a1d6cc571279121d99a"
 ingetrazo = "0.5.11"
 tags = ["architecture"]
+screenshot = "gutters_downpipes.webp"
 
 [name]
 es = "Canalones y bajantes 3D"
