@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "2df40ebcf90529c5237ce825b1bc44c5524d4899e0f55b5446efb8fe44d15178"
 ingetrazo = "0.5.11"
 tags = ["architecture", "fabrication"]
+screenshot = "roof_tiles.webp"
 
 [name]
 es = "Tejas 3D"
