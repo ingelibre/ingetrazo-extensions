@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "58fcf433c4cf481a009d1052ae114416411fc6e5d407d7fe6f50e7610968392e"
 ingetrazo = "0.5.11"
 tags = ["architecture", "fabrication"]
+screenshot = "brick_block_studio.webp"
 
 [name]
 es = "Estudio de ladrillos y bloques 3D"
