@@ -1,0 +1,21 @@
+id = "station_canopies"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_station_canopies.py"
+sha256 = "3ab2d33e50cecf30b14712b222685b5e974f68090399a0cd5012965fbc3f45d4"
+ingetrazo = "0.5.11"
+tags = ["architecture"]
+screenshot = "station_canopies.webp"
+
+[name]
+es = "Marquesinas de estación 3D"
+en = "3D Station Canopies"
+pt = "Coberturas de estação 3D"
+
+[summary]
+es = "Marquesinas de andén ferroviario (adosadas, de isla y en diente de sierra) sobre columnas de fundición o postes de madera, con lambrequines decorados."
+en = "Railway platform canopies (lean-to, island and ridge and furrow) on cast-iron columns or timber posts, with dagger, rounded or fleur valancing."
+pt = "Coberturas de plataforma ferroviária (encostadas, de ilha e em dente de serra) sobre colunas de ferro fundido ou postes de madeira, com sanefas decoradas."
