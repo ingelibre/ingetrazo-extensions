@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "1b80e02a6252cfef9e08337502afa9d60a680e7929b9b551d1e60987874f80b5"
 ingetrazo = "0.5.11"
 tags = ["architecture"]
+screenshot = "fences_gates.webp"
 
 [name]
 es = "Vallas y puertas 3D"
