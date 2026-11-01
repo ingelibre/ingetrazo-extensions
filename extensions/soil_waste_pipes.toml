@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo
 sha256 = "5087d932aa3aa6d42ee61cc57b5ab0825ec928e8924474f7dab86a050e543e63"
 ingetrazo = "0.5.11"
 tags = ["architecture"]
+screenshot = "soil_waste_pipes.webp"
 
 [name]
 es = "Tuberías de desagüe 3D"
