@@ -1,0 +1,16 @@
+id = "multi_viewport"
+version = "1.0.0"
+author = "archimades27"
+author_url = "https://github.com/archimades27"
+repository = "https://github.com/archimades27/ingetrazo-viewport-layouts"
+download = "https://raw.githubusercontent.com/archimades27/ingetrazo-viewport-layouts/v1.0.0/multi_viewport.py"
+sha256 = "b3dc85ab40c374c8ec2e86ffc7b9fa268cd9eec5cd9a8089f021c5730bc35426"
+license = "GPL-3.0-or-later"
+ingetrazo = "0.6.0"
+tags = ["productivity", "drawing"]
+
+[name]
+en = "Viewport Layouts for IngeTrazo"
+
+[summary]
+en = "Switch between single, split and quad viewports with synchronized model views, resizable dividers, and display and visibility controls."
