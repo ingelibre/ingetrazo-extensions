@@ -1,0 +1,41 @@
+# extensions/igz_steel_rf.toml — entry for https://github.com/ingelibre/ingetrazo-extensions
+# Create it in the catalog repo via "Add file ▸ Create new file" inside extensions/,
+# paste this content, then "Propose changes" ▸ "Create pull request".
+
+# Same as the file name: lowercase letters, digits and _.
+id = "igz_steel_rf"
+version = "0.1"
+author = "Jooffin"
+author_url = "https://github.com/Jooffin"
+
+# SPDX name of a free licence.
+license = "GPL-3.0-or-later"
+
+# Where people read your code.
+repository = "https://github.com/Jooffin/igs-steel-rf"
+
+# A .zip holding ONE folder (igz_steel_rf/) with an __init__.py, served from a TAG.
+download = "https://raw.githubusercontent.com/Jooffin/igs-steel-rf/v0.1/igz_steel_rf.zip"
+# sha256sum igz_steel_rf.zip  (Windows: certutil -hashfile igz_steel_rf.zip SHA256)
+sha256 = "c7267e1d1ad7d3c9a2853e3664aba816c006200939d7430309c0e951789aa8c9"
+
+# The IngeTrazo version you tested with.
+ingetrazo = "0.5.9"
+
+# 1 to 4 of: architecture, bim, structures, terrain, drawing, analysis,
+# import-export, rendering, fabrication, productivity, education, other
+tags = ["structures", "fabrication", "bim", "productivity"]
+
+# Optional: upload the picture to screenshots/ (png/jpg/webp, under 600 KB, ~1200×750)
+screenshot = "igz_steel_rf.png"
+
+# At least Spanish OR English.
+[name]
+es = "Acero RF (GOST)"
+en = "Steel RF (GOST)"
+pt = "Aço RF (GOST)"
+
+[summary]   # one or two sentences, up to 240 characters
+es = "Herramientas de acero rusas: más de 6000 perfiles GOST, taladros de testa, tornillería DIN/GOST, chapelas de testa, cortes a inglete, ejes de celosías y parrillas, y toma de cantidades. Interfaz en ruso e inglés."
+en = "Russian steel toolset: 6000+ GOST rolled sections, end holes, DIN/GOST bolts, end plates, angled cuts, truss and grid axes, and a weight take-off. Interface in Russian and English."
+pt = "Ferramentas de aço russas: mais de 6000 perfis GOST, furos de topo, parafusos DIN/GOST, placas de topo, cortes em ângulo, eixos de tesouras e grades, e levantamento de pesos. Interface em russo e inglês."
