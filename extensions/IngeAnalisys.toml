@@ -1,45 +1,32 @@
-# Copy this file to extensions/<id>.toml and fill it in.
-# Copia este archivo a extensions/<id>.toml y rellénalo.
-# Copie este arquivo para extensions/<id>.toml e preencha.
+# Ficha de la extensión «Análisis de sitio» para el catálogo de IngeTrazo.
+# Va en extensions/analisis_sitio.toml
 
-# Same as the file name: lowercase letters, digits and _.
 id = "analisis_sitio"
-version = "1.0"
+version = "1.8.0"
 author = "Jufego"
-# author_url = "https://github.com/jufegofoto-cell"            # optional
+author_url = "https://github.com/jufegofoto-cell"
 
-# SPDX name of a free licence: MIT, GPL-3.0-or-later, Apache-2.0, BSD-3-Clause…
-license = "MIT"
+license = "GPL-3.0-or-later"
 
-# Where people read your code.
-repository = "https://github.com/you/my-extension"
+repository = "https://github.com/jufegofoto-cell/IngeAnalisys"
 
-# The exact file IngeTrazo users will install: a .py file, or a .zip holding
-# ONE folder with an __init__.py. Use a TAG or a COMMIT in the address, not
-# «main»: what is reviewed must not change afterwards.
+# El ZIP adjunto a la versión (release). Debe coincidir EXACTAMENTE con la
+# dirección del archivo en GitHub (mayúsculas incluidas: V1.8.0 ≠ v1.8.0).
 download = "https://github.com/jufegofoto-cell/IngeAnalisys/releases/download/V1.8.0/analisis_sitio.zip"
-# sha256sum my_extension.py      (Windows: certutil -hashfile my_extension.py SHA256)
-# If it is wrong, the check tells you the right one.
 sha256 = "b57ba0aa0e0f39060283830db550977ba4af98737ed285c9163676ecd808146c"
 
-# The IngeTrazo version you tested with.
-ingetrazo = "0.5.7"
+ingetrazo = "0.6.0"
 
-# 1 to 4 of: architecture, bim, structures, terrain, drawing, analysis,
-# import-export, rendering, fabrication, productivity, education, other
-tags = ["architecture"]
+tags = ["analysis", "architecture", "terrain", "education"]
 
-# Optional: a picture in screenshots/ (png, jpg or webp, under 600 KB, ~1200×750).
-# screenshot = "my_extension.png"
+screenshot = "analisis_sitio.png"
 
-# At least Spanish OR English. Portuguese is welcome. Machine translation is
-# fine — the page shows the visitor's language when it is there.
 [name]
-es = "Mi extensión"
-en = "My extension"
-pt = "Minha extensão"
+es = "Análisis de sitio (IngeAnalysis)"
+en = "Site Analysis (IngeAnalysis)"
+pt = "Análise do terreno (IngeAnalysis)"
 
-[summary]   # one or two sentences, up to 240 characters
-es = "IngeAnalysis integra herramientas de análisis bioclimático y del sitio, como la trayectoria solar, la rosa de los vientos, la radiación solar y el análisis de sombras."
-en = "IngeAnalysis integrates bioclimatic and site analysis tools, including sun path analysis, wind roses, solar radiation and shadow analysis."
-pt = "O que faz, em uma frase."
+[summary]
+es = "Análisis bioclimático del sitio en el modelo: carta solar 3D, sombras y horas de sol, radiación solar incidente, rosa de los vientos y clima desde EPW, contexto urbano de OpenStreetMap, masas e índices."
+en = "Bioclimatic site analysis inside the model: 3D sun path, shadow and sun hours, incident solar radiation, wind rose and climate from EPW, OpenStreetMap urban context, massing and planning indices."
+pt = "Análise bioclimática do terreno no modelo: carta solar 3D, sombras e horas de sol, radiação solar incidente, rosa dos ventos e clima do EPW, contexto urbano do OpenStreetMap, volumetria e índices."
