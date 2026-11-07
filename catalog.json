@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T18:44Z",
+ "generated": "2026-11-07T13:53Z",
  "tags": [
   "analysis",
   "architecture",
@@ -237,13 +237,13 @@
   },
   {
    "id": "archxq_it_lite",
-   "version": "0.10.3",
+   "version": "0.11.1",
    "author": "Orlando Souza · XQ",
    "author_url": "https://github.com/equipexq",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/equipexq/archxq-it-lite",
-   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.10.3/archxq_it_lite-v0.10.3.zip",
-   "sha256": "9ea03f80ed3fd74df50b4458d8c8b504a5cbe7456d09867069cde7b8ebd2118a",
+   "download": "https://github.com/equipexq/archxq-it-lite/releases/download/v0.11.1/archxq_it_lite-v0.11.1.zip",
+   "sha256": "7ea538a625164f300d82324ca619443142ca8a93262986324e9b801c871c848f",
    "ingetrazo": "0.5.8",
    "tags": [
     "architecture",
@@ -264,7 +264,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-04T22:30Z",
-   "updated_at": "2026-10-21T20:31Z"
+   "updated_at": "2026-11-04T03:44Z"
   },
   {
    "id": "automacao",
@@ -326,17 +326,18 @@
   },
   {
    "id": "plugins_toolbar",
-   "version": "1.1",
+   "version": "1.3",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_plugins_toolbar.py",
-   "sha256": "33f5d20915c3068a1d7898bd851fec75c60a7b83fd09cc6f1322c146a087654f",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_plugins_toolbar.py",
+   "sha256": "0e8812038b221c94ac664c0f571a47518e921c0ad86ee71bfaf2fc884b211401",
    "ingetrazo": "0.5.11",
    "tags": [
     "productivity"
    ],
+   "screenshot": "plugins_toolbar.webp",
    "name": {
     "es": "Barra de complementos 3D",
     "en": "3D Plugins Toolbar",
@@ -349,7 +350,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T17:27Z"
+   "updated_at": "2026-11-07T09:11Z"
   },
   {
    "id": "organize_toolbar",
@@ -418,13 +419,13 @@
   },
   {
    "id": "blackfox_3d_inspector",
-   "version": "1.0.0",
+   "version": "1.1.0",
    "author": "David Mavrov",
    "author_url": "https://github.com/davidsmavrov-debug",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/davidsmavrov-debug/BlackFox-CAD",
-   "download": "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/inspector-v1.0.0/IngeTrazo%20Extensions/3D%20Inspector/BlackFox_3D_Inspector_v1_0_0.py",
-   "sha256": "4ab9473a32e881a257178128b1f19c8fa3ae5ef7821226c04f10a56ce6d13513",
+   "download": "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/inspector-v1.1.0/IngeTrazo%20Extensions/3D%20Inspector/BlackFox_3D_Inspector_v1_1_0.py",
+   "sha256": "4192faaf94e7fb78f734f9944481a5f4662c963524d69d2fac573d838f7f6b7a",
    "ingetrazo": "0.5.11",
    "tags": [
     "analysis",
@@ -443,36 +444,37 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T15:28Z",
-   "updated_at": "2026-11-01T15:28Z"
+   "updated_at": "2026-11-07T04:39Z"
   },
   {
    "id": "blackfox_cad_exporter",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "author": "David Mavrov",
    "author_url": "https://github.com/davidsmavrov-debug",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/davidsmavrov-debug/BlackFox-CAD",
-   "download": "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/exporter-v1.0.0/IngeTrazo%20Extensions/3D%20DXF%20Exporter/BlackFox_CAD_Exporter_v1_0_0.py",
-   "sha256": "cf08e2109e064c3cdd2eca697ef6207af54b9b0f8351b9cce62ca9bb5e4e8386",
+   "download": "https://raw.githubusercontent.com/davidsmavrov-debug/BlackFox-CAD/exporter-v1.0.1/IngeTrazo%20Extensions/3D%20DXF%20Exporter/BlackFox_CAD_Exporter_v1_0_1.py",
+   "sha256": "4e9546424fd5ab6c3bcbe78bcaffd0f1c275657d4b35ee05c616874d9aca005b",
    "ingetrazo": "0.5.11",
    "tags": [
     "import-export",
     "architecture",
     "structures"
    ],
+   "screenshot": "blackfox_cad_exporter.png",
    "name": {
     "en": "BlackFox CAD Exporter",
     "es": "BlackFox CAD Exporter",
     "pt": "BlackFox CAD Exporter"
    },
    "summary": {
-    "en": "Export 3D geometry from IngeTrazo to DXF or DWG, preserving supported layers, groups, and components. DWG conversion uses an automatically downloaded converter.",
-    "es": "Exporta geometría 3D de IngeTrazo a DXF o DWG, conservando capas, grupos y componentes compatibles. Descarga automáticamente el conversor DWG.",
-    "pt": "Exporta geometria 3D do IngeTrazo para DXF ou DWG, preservando camadas, grupos e componentes compatíveis. Baixa automaticamente o conversor DWG."
+    "en": "Export 3D geometry from IngeTrazo to DXF or DWG, preserving supported layers, groups, and components. DWG conversion uses a small Rust converter downloaded with your consent.",
+    "es": "Exporta geometría 3D de IngeTrazo a DXF o DWG, conservando capas, grupos y componentes compatibles. El conversor DWG se descarga con tu permiso.",
+    "pt": "Exporta geometria 3D do IngeTrazo para DXF ou DWG, preservando camadas, grupos e componentes compatíveis. O conversor DWG é baixado com sua autorização."
    },
    "reviewed": false,
    "added_at": "2026-11-01T15:28Z",
-   "updated_at": "2026-11-01T15:28Z"
+   "updated_at": "2026-11-04T03:45Z"
   },
   {
    "id": "blackfox_catenary",
@@ -505,17 +507,18 @@
   },
   {
    "id": "notepad",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/notepad.py",
-   "sha256": "28a5021bdc9105f35656f9c98f5925025266ce0ec6ef91a13cb2e075d993fad6",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/7f6637ab03c57c0de3a3f2969791465b2db3e469/plugins/3D_Eddys/ed3d_notepad.py",
+   "sha256": "2d45f033d06e3dd09fb116af2745cf8085b7e87a766e8afffcdb10bcfd03e55d",
    "ingetrazo": "0.5.11",
    "tags": [
     "productivity"
    ],
+   "screenshot": "notepad.webp",
    "name": {
     "es": "Bloc de notas 3D",
     "en": "3D Notepad",
@@ -528,7 +531,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-07T08:05Z"
   },
   {
    "id": "centre_finder",
@@ -537,13 +540,14 @@
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_centre_finder.py",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/2dbe5bef8c9214fcf4b8b4e2cf532de77b9d2a93/plugins/3D_Eddys/ed3d_centre_finder.py",
    "sha256": "1bb57622dc54117df9a0f5e5e1e8d8a855cca0216ee2fb063cef3c39f36b448a",
    "ingetrazo": "0.5.11",
    "tags": [
     "drawing",
     "productivity"
    ],
+   "screenshot": "centre_finder.webp",
    "name": {
     "es": "Buscador de centros 3D",
     "en": "3D Centre Finder",
@@ -596,13 +600,13 @@
   },
   {
    "id": "gutters_downpipes",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/gutters_downpipes.py",
-   "sha256": "703f12d1510f692b18887c972113169cf6907a7603250a1d6cc571279121d99a",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_gutters_downpipes.py",
+   "sha256": "153271cad91144db39b143b0bbd05cb7ceaa9cf80f6b9cb2097319fd0e92db40",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture"
@@ -620,7 +624,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-07T09:06Z"
   },
   {
    "id": "chakkree_tools",
@@ -660,13 +664,13 @@
   },
   {
    "id": "corrugated_iron",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_corrugated_iron.py",
-   "sha256": "17c9a40fbc0d1a93c05a077042335d00df415b2c208f06b1bbc60a246bfaab01",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_corrugated_iron.py",
+   "sha256": "811fef0981e17b5610c035525482d4b5ab58e327bd5947fecabc167a1af870be",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture",
@@ -685,17 +689,17 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T17:47Z",
-   "updated_at": "2026-11-01T17:47Z"
+   "updated_at": "2026-11-07T09:03Z"
   },
   {
    "id": "chimneys",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_chimneys.py",
-   "sha256": "7f41f63b6362d61c2db7411a2be2cec422ecf3d9f1a62233f8a8d23fd2b12216",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_chimneys.py",
+   "sha256": "53bc3f63ff3ff0a985548d556ee28312635828ec6038855f4d404e64b8136b57",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture",
@@ -714,7 +718,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T17:48Z",
-   "updated_at": "2026-11-01T17:48Z"
+   "updated_at": "2026-11-07T09:02Z"
   },
   {
    "id": "lines_connect",
@@ -889,13 +893,13 @@
   },
   {
    "id": "croquis",
-   "version": "0.14.0",
+   "version": "0.14.2",
    "author": "Victor Crespo",
    "author_url": "https://github.com/vicc3d",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/vicc3d/croquis-ingetrazo",
-   "download": "https://github.com/vicc3d/croquis-ingetrazo/releases/download/v0.14.0/croquis-0.14.0.zip",
-   "sha256": "d6d9727a4b88e5ad02cec56ba214921f4423c1cb01dace8f5e5babd4a585b02f",
+   "download": "https://github.com/vicc3d/croquis-ingetrazo/releases/download/v0.14.2/croquis-0.14.2.zip",
+   "sha256": "6eca5c9cf8eb23c2923696fbb2944d6480fb83c281471fcff22ec71a49cec5b7",
    "ingetrazo": "0.5.9",
    "tags": [
     "drawing",
@@ -915,7 +919,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-21T20:30Z",
-   "updated_at": "2026-10-21T20:30Z"
+   "updated_at": "2026-11-04T02:06Z"
   },
   {
    "id": "quadrify_tool",
@@ -1064,7 +1068,7 @@
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_wrap.py",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/6b19ccf8ab8aa9a0a96987731fbc068c4e037709/plugins/3D_Eddys/ed3d_wrap.py",
    "sha256": "a266739052cc2f778b36f114eb15487c63288d1bb25a6733f23b387d2dbc8621",
    "ingetrazo": "0.5.11",
    "tags": [
@@ -1079,7 +1083,7 @@
    },
    "summary": {
     "es": "Coloca ladrillos hilada a hilada alrededor de chimeneas redondas, cuadradas, cónicas o dibujadas (sin junta, esquinas trabadas), o curva un patrón plano sobre un sólido.",
-    "en": "Lays bricks course by course around round, square, tapered or drawn chimneys (no seam, bonded corners), or bends any flat pattern round a solid.",
+    "en": "Lays bricks course by course round round, square, tapered or drawn chimneys (no seam, bonded corners), or bends any flat pattern round a solid.",
     "pt": "Assenta tijolos fiada a fiada à volta de chaminés redondas, quadradas, cónicas ou desenhadas (sem junta, cantos travados), ou curva um padrão plano sobre um sólido."
    },
    "reviewed": false,
@@ -1144,13 +1148,13 @@
   },
   {
    "id": "brick_block_studio",
-   "version": "1.0",
+   "version": "2.3",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/brick_block_studio.py",
-   "sha256": "58fcf433c4cf481a009d1052ae114416411fc6e5d407d7fe6f50e7610968392e",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/3abc3dc039bcf853a911e1e3cf14ef515fa4571b/plugins/3D_Eddys/ed3d_brick_block_studio.py",
+   "sha256": "be146d2bcf4879ef113510c02b382ac0171826b01ffaf35003f23c10bb1d2e7c",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture",
@@ -1163,13 +1167,13 @@
     "pt": "Estúdio de tijolos e blocos 3D"
    },
    "summary": {
-    "es": "Ladrillo y bloque en 3D sobre una cara: aparejos, desfases, hiladas a tizón y a sardinel, envejecido, preajustes y cortes exactos en huecos. Sólidos cerrados para imprimir.",
-    "en": "3D brick and block work on a wall face: bonds, row offsets, header and soldier courses, weathering, presets and exact cuts round openings. Closed solids ready to print.",
-    "pt": "Alvenaria 3D de tijolo e bloco numa face: aparelhos, desfasamentos, fiadas, envelhecimento, predefinições e cortes exatos nas aberturas. Sólidos fechados para impressão."
+    "en": "Brick, block and stone walling on a wall face: bonds, coursed ashlar, random rubble, dry-stone, Welsh slate; quoins, copings, heads and sills; bomb-site damage and rubble piles. Closed solids ready to print.",
+    "es": "Muros de ladrillo, bloque y piedra sobre una cara: aparejos, sillería, mampostería, piedra seca, pizarra; esquinales, albardillas, dinteles y alféizares; daños de bombardeo y montones de escombros. Listo para imprimir.",
+    "pt": "Alvenaria de tijolo, bloco e pedra numa face: aparelhos, cantaria, alvenaria irregular, pedra seca, ardósia; cunhais, capeamentos, padieiras e peitoris; danos de bombardeio e montes de entulho. Pronto a imprimir."
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-07T13:53Z"
   },
   {
    "id": "igz_pdf3d",
@@ -1954,14 +1958,14 @@
   },
   {
    "id": "cutlist",
-   "version": "0.1.0",
+   "version": "0.2.1",
    "author": "Ronaldo Alves",
    "author_url": "https://github.com/ronaldogalves",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/ronaldogalves/cutlist-ingetrazo",
-   "download": "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.1.0/cutlist-0.1.0.zip",
-   "sha256": "f576f2c963022e85175aa68385ec0d22c2130a5ccf179bc66fa9ca050f08442d",
-   "ingetrazo": "0.5.9",
+   "download": "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.2.1/cutlist-0.2.1.zip",
+   "sha256": "a5f99ba8ba3595d54e413e1e06eaf40118055c4bb5046be19003ad4fa11a4ce1",
+   "ingetrazo": "0.6.0",
    "tags": [
     "fabrication",
     "import-export"
@@ -1973,13 +1977,13 @@
     "pt": "Lista de corte · peças, fornecedores, planos de corte"
    },
    "summary": {
-    "en": "Cut list by board and thickness, read from how the model is painted (boards, laminates, edge bands); supplier exports (CorteCloud, Leo Madeiras); cutting diagrams for the saw, printed as PDF.",
-    "es": "Lista de corte por tablero y espesor, leída de la pintura del modelo (tableros, laminados, cantos); exportación a proveedores (CorteCloud, Leo Madeiras); planos de corte para la sierra en PDF.",
-    "pt": "Lista de corte por chapa e espessura, lida da pintura do modelo (chapas, laminados, fitas); exportação para fornecedores (CorteCloud, Leo Madeiras); planos de corte para a serra em PDF."
+    "en": "Cut list for woodworking: boards, thicknesses, laminates and edge bands read from the model's materials; supplier exports (CorteCloud, Leo etc.); cutting diagrams for the saw; edge band totals; part labels.",
+    "es": "Lista de corte para carpintería: tableros, espesores, laminados y cantos leídos de los materiales del modelo; exportación a proveedores (CorteCloud, Leo etc.); planos de corte para la sierra; cantos a comprar; etiquetas para piezas.",
+    "pt": "Lista de corte para marcenaria: chapas, espessuras, laminados e fitas de borda lidos dos materiais do modelo; exportação para fornecedores (CorteCloud, Leo etc.); planos de corte para serra; quantificação de fitas; etiquetas para peças."
    },
    "reviewed": false,
    "added_at": "2026-10-21T20:31Z",
-   "updated_at": "2026-10-21T20:31Z"
+   "updated_at": "2026-11-03T22:32Z"
   },
   {
    "id": "ingetrazo_lite_bridge",
@@ -2012,13 +2016,13 @@
   },
   {
    "id": "station_canopies",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_station_canopies.py",
-   "sha256": "3ab2d33e50cecf30b14712b222685b5e974f68090399a0cd5012965fbc3f45d4",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_station_canopies.py",
+   "sha256": "39d0634e221ed11744f8ecd4cfe0de2cc3e69ed7fcd3f6268ec08faa2dc05943",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture"
@@ -2036,7 +2040,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T17:48Z",
-   "updated_at": "2026-11-01T17:48Z"
+   "updated_at": "2026-11-07T09:17Z"
   },
   {
    "id": "array_tool",
@@ -2270,13 +2274,13 @@
   },
   {
    "id": "pointcloud_splat",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "author": "archimades27",
    "author_url": "https://github.com/archimades27",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/archimades27/ingetrazo-pointcloud-splat",
-   "download": "https://github.com/archimades27/ingetrazo-pointcloud-splat/releases/download/v1.0.0/pointcloud_splat.zip",
-   "sha256": "ae95b72a90c06bf8ea894083db9f4a6ae24cd5ffe42de4415fb2d44921c22422",
+   "download": "https://github.com/archimades27/ingetrazo-pointcloud-splat/releases/download/v1.0.1/pointcloud_splat.zip",
+   "sha256": "a7801d4c12e29f7a75550d7b97cbd302a8ecf4b3fb28ad56281d1926fec93818",
    "ingetrazo": "0.5.7",
    "tags": [
     "bim",
@@ -2294,9 +2298,14 @@
     "es": "Importación, inspección y ajuste (snap) a nubes de puntos LiDAR/fotogrametría (.ply, .las, .laz, .xyz) y Gaussian Splats 3D (.splat) con renderizado acelerado, caja de sección y herramientas Scan-to-BIM.",
     "pt": "Importação, inspeção e snap em nuvens de pontos LiDAR/fotogrametria (.ply, .las, .laz, .xyz) e Gaussian Splats 3D (.splat) com renderização acelerada, caixa de corte e ferramentas Scan-to-BIM."
    },
+   "description": {
+    "en": "High-performance reality-capture extension for IngeTrazo supporting LiDAR, photogrammetry point clouds (.ply, .las, .laz, .xyz, .pts, .txt, .csv), and 3D Gaussian Splats (.ply, .splat). Includes a SIMD/multi-threaded C rasterizer (up to 60+ FPS with dynamic LOD), True Color RGB/SH, Elevation colormaps (Turbo, Viridis, Jet, Terrain), Intensity and Normal shading, interactive 3D Section Box clipping, native CAD snapping, and undoable Scan-to-BIM tools (RANSAC dominant plane fitting, 3D bounding box, and guide points). What's New in v1.0.1: True 3D OpenGL depth-buffer occlusion so CAD geometry and large-scale drone scans overlap accurately in 3D space; non-blocking zero-face scene proxy so faces and edges inside visible or hidden point clouds can be freely selected, extruded (Push/Pull), and edited; native Move/Rotate/Scale sync; and SnapshotImport undo integration.",
+    "es": "Extensión de captura de realidad de alto rendimiento para IngeTrazo compatible con nubes de puntos LiDAR y fotogrametría (.ply, .las, .laz, .xyz, .pts, .txt, .csv) y Gaussian Splats 3D (.ply, .splat). Incluye rasterizador en C multihilo (hasta 60+ FPS con LOD dinámico), modos RGB/SH, mapas de elevación (Turbo, Viridis, Jet, Terrain), intensidad y normales, caja de sección 3D, ajuste (snap) nativo para dibujo CAD y herramientas Scan-to-BIM con soporte de deshacer (plano dominante RANSAC, caja delimitadora y puntos guía). Novedades en v1.0.1: oclusión 3D real mediante el búfer de profundidad OpenGL para que el modelo CAD y las nubes de puntos se superpongan correctamente; proxy sin caras que permite seleccionar, extruir (Empujar/Tirar) y editar geometría dentro de nubes visibles u ocultas; y sincronización con Mover/Rotar/Escalar.",
+    "pt": "Extensão de captura da realidade de alto desempenho para IngeTrazo compatível com nuvens de pontos LiDAR e fotogrametria (.ply, .las, .laz, .xyz, .pts, .txt, .csv) e Gaussian Splats 3D (.ply, .splat). Inclui rasterizador em C multithread (até 60+ FPS com LOD dinâmico), modos RGB/SH, mapas de elevação (Turbo, Viridis, Jet, Terrain), intensidade e normais, caixa de corte 3D, snap nativo para ferramentas CAD e recursos Scan-to-BIM com suporte a desfazer (plano dominante RANSAC, caixa delimitadora e pontos de guia). Novidades na v1.0.1: oclusão 3D real via buffer de profundidade OpenGL para sobreposição precisa entre o modelo CAD e a nuvem de pontos; proxy sem faces para selecionar, extrudar (Empurrar/Puxar) e editar objetos dentro de nuvens visíveis ou ocultas; e sincronização nativa com Mover/Rotacionar/Escalar."
+   },
    "reviewed": false,
    "added_at": "2026-10-08T22:33Z",
-   "updated_at": "2026-10-08T22:33Z"
+   "updated_at": "2026-11-04T03:45Z"
   },
   {
    "id": "opentrace_bim",
@@ -2455,13 +2464,13 @@
   },
   {
    "id": "period_doors",
-   "version": "1.0",
+   "version": "1.2",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/period_doors.py",
-   "sha256": "a363d2cd4d3b0c7b6fbadeda97f61630842ef989e56530def4cbc9369fbf4219",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_period_doors.py",
+   "sha256": "0953fea6f04676d231da2d264970dd311bbaf7b9848bb87c52982151bf7cbe07",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture"
@@ -2479,7 +2488,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-07T09:07Z"
   },
   {
    "id": "comfyui_renderer",
@@ -2664,13 +2673,13 @@
   },
   {
    "id": "wood_planking",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/wood_planking.py",
-   "sha256": "f425fa22ee5961fa7dc0dbc2db011981488485378574c472befc7bf4487e84dd",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_wood_planking.py",
+   "sha256": "efbf2e718505d46b7999152d8a876befa010be9e1518c8185760dab23218f3cf",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture",
@@ -2689,7 +2698,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-07T09:19Z"
   },
   {
    "id": "roof_tile_tool",
@@ -2721,13 +2730,13 @@
   },
   {
    "id": "roof_tiles",
-   "version": "1.1",
+   "version": "1.2",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_roof_tiles.py",
-   "sha256": "2f358ab7adfba0c5073b08117ceba97930d5bb387a26f242fbc1d8b4e751bf66",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_roof_tiles.py",
+   "sha256": "19f7b8e366a10405489422118cbdc75476991d8760da15ab23fc6c174ed11bba",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture",
@@ -2746,7 +2755,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T17:28Z"
+   "updated_at": "2026-11-07T09:14Z"
   },
   {
    "id": "terraroad",
@@ -2869,12 +2878,13 @@
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_loft.py",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/6b19ccf8ab8aa9a0a96987731fbc068c4e037709/plugins/3D_Eddys/ed3d_loft.py",
    "sha256": "e08dbf1a9c10b78490c347c45af559fe7e97a46188093199105af21266c1e42d",
    "ingetrazo": "0.5.11",
    "tags": [
     "drawing"
    ],
+   "screenshot": "loft.webp",
    "name": {
     "es": "Transición 3D",
     "en": "3D Loft",
@@ -2919,13 +2929,13 @@
   },
   {
    "id": "soil_waste_pipes",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/soil_waste_pipes.py",
-   "sha256": "5087d932aa3aa6d42ee61cc57b5ab0825ec928e8924474f7dab86a050e543e63",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_soil_waste_pipes.py",
+   "sha256": "6c58819ae64590deb89c5cd630e68d73cc67bc3a1874f4126f875ba5ad519d0f",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture"
@@ -2943,7 +2953,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-07T09:16Z"
   },
   {
    "id": "ui_colores_space",
@@ -3002,13 +3012,13 @@
   },
   {
    "id": "v_menu",
-   "version": "0.2",
+   "version": "0.3",
    "author": "priit123",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/priit123/ingetrazo-v-menu",
-   "download": "https://github.com/priit123/ingetrazo-v-menu/releases/download/0.2/ingetrazo-v-menu-0.2.zip",
-   "sha256": "048870e82c1366f43712eb54a47828b0c9b91dbb64837e0866c0fc3f4ede31f1",
-   "ingetrazo": "0.5.11",
+   "download": "https://github.com/priit123/ingetrazo-v-menu/releases/download/0.3/ingetrazo-v-menu-0.3.zip",
+   "sha256": "4eb21f3e9cc7ae04298e5342e5be1ce5ae71299117fd588eeae582d845ffde3d",
+   "ingetrazo": "0.6.0",
    "tags": [
     "productivity"
    ],
@@ -3024,17 +3034,17 @@
    },
    "reviewed": false,
    "added_at": "2026-10-02T14:40Z",
-   "updated_at": "2026-11-01T16:05Z"
+   "updated_at": "2026-11-04T03:44Z"
   },
   {
    "id": "fences_gates",
-   "version": "1.1",
+   "version": "1.2",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_fences_gates.py",
-   "sha256": "a943238a94c0b2f61032bccf9d8d92261a2320fa2b1af8ca9b44d86a936412c7",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_fences_gates.py",
+   "sha256": "87c4b9aa991ec0039c5ec24e9c2bf2d37481f4279db91da5f2e9f599d44d6961",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture"
@@ -3052,17 +3062,17 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T17:27Z"
+   "updated_at": "2026-11-07T09:04Z"
   },
   {
    "id": "period_windows",
-   "version": "1.1",
+   "version": "1.2",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_period_windows.py",
-   "sha256": "f2c8dd5bca6dd4bd865f9a8875629cd077fbb3ecd45ec6b09d8de59859f4c973",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/f804333250eaa3751f9f88d1ddec575915f1b668/plugins/3D_Eddys/ed3d_period_windows.py",
+   "sha256": "dcf86f7273ba3234996167901e9c4e396a285eff8d2252d74a6788ed9d06364c",
    "ingetrazo": "0.5.11",
    "tags": [
     "architecture"
@@ -3080,7 +3090,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T17:27Z"
+   "updated_at": "2026-11-07T09:08Z"
   },
   {
    "id": "standalone_3d_html_viewer",
