@@ -6,7 +6,7 @@
 id = "v_menu"
 version = "1.0"
 author = "priit123"
-# author_url = "https://github.com/you"            # optional
+author_url = "https://github.com/priit123"
 
 # SPDX name of a free licence: MIT, GPL-3.0-or-later, Apache-2.0, BSD-3-Clause…
 license = "GPL-3.0-or-later"
@@ -30,7 +30,7 @@ ingetrazo = "0.6.0"
 tags = ["productivity"]
 
 # Optional: a picture in screenshots/ (png, jpg or webp, under 600 KB, ~1200×750).
-# screenshot = "my_extension.png"
+screenshot = "v_menu.png"
 
 # At least Spanish OR English. Portuguese is welcome. Machine translation is
 # fine — the page shows the visitor's language when it is there.
