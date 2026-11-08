@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-08T13:09Z",
+ "generated": "2026-11-08T13:26Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2443,6 +2443,8 @@
    "reviewed": false,
    "added_at": "2026-11-04T07:03Z",
    "updated_at": "2026-11-08T12:59Z"
+  },
+  {
    "id": "mac_trackpad_navigation",
    "version": "1.0.1",
    "author": "Remi Clinton",
