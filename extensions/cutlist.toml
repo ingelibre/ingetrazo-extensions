@@ -1,12 +1,12 @@
 id = "cutlist"
-version = "0.2.1"
+version = "0.2.2"
 author = "Ronaldo Alves"
 author_url = "https://github.com/ronaldogalves"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/ronaldogalves/cutlist-ingetrazo"
-download = "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.2.1/cutlist-0.2.1.zip"
-sha256 = "a5f99ba8ba3595d54e413e1e06eaf40118055c4bb5046be19003ad4fa11a4ce1"
-ingetrazo = "0.6.0"
+download = "https://github.com/ronaldogalves/cutlist-ingetrazo/releases/download/v0.2.2/cutlist-0.2.2.zip"
+sha256 = "01b6a5fa3f3f03e078a3b53a74f6aaf3da734a200bfc623aa782afb5504062ea"
+ingetrazo = "0.6.1"
 tags = ["fabrication", "import-export"]
 screenshot = "cutlist.png"
 
