@@ -1,0 +1,22 @@
+id = "stretch_vertices"
+version = "1.0"
+author = "floresax"
+author_url = "https://github.com/floresax"
+
+license = "GPL-3.0-or-later"
+repository = "https://github.com/floresax/stretch-vertices"
+download = "https://raw.githubusercontent.com/floresax/stretch-vertices/v1.0/stretch_vertices.py"
+sha256 = "029f17a43466cb52b56e88ece5af6a300acdcee3b98caebfc98e88e27a8d214c"
+
+ingetrazo = "0.6.1"
+tags = ["drawing", "productivity"]
+
+[name]
+en = "Stretch Vertices"
+es = "Estirar vértices"
+pt = "Esticar vértices"
+
+[summary]
+en = "Select the vertices of part of a group or component (nested ones too) with a window and move them like a normal Move."
+es = "Selecciona con una ventana los vértices de parte de un grupo o componente (también anidados) y muévelos como un Mover normal."
+pt = "Selecione com uma janela os vértices de parte de um grupo ou componente (inclusive aninhados) e mova-os como um Mover normal."
