@@ -10,6 +10,7 @@ sha256 = "029f17a43466cb52b56e88ece5af6a300acdcee3b98caebfc98e88e27a8d214c"
 
 ingetrazo = "0.6.1"
 tags = ["drawing", "productivity"]
+screenshot = "stretch_vertices.png"
 
 [name]
 en = "Stretch Vertices"
