@@ -1,12 +1,12 @@
 id = "progresivas"
-version = "0.6.2"
+version = "1.0.0"
 author = "Marco Sumari Tellez"
 author_url = "https://github.com/tuxiasumari"
 license = "GPL-3.0-or-later"
-repository = "https://github.com/ingelibre/ingetrazo/blob/v0.6.2/examples/extensions/progresivas.py"
-download = "https://raw.githubusercontent.com/ingelibre/ingetrazo/v0.6.2/examples/extensions/progresivas.py"
+repository = "https://github.com/ingelibre/ingetrazo-progresivas"
+download = "https://github.com/ingelibre/ingetrazo-progresivas/releases/download/v1.0.0/progresivas.py"
 sha256 = "79734433a8e79d3956db27047e81981c57a5519f0876b36101ad15db3976739e"
-ingetrazo = "0.6.2"
+ingetrazo = "0.6.1"
 tags = ["terrain", "drawing", "analysis"]
 
 screenshot = "progresivas.png"
