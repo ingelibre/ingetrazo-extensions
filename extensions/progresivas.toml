@@ -1,0 +1,22 @@
+id = "progresivas"
+version = "0.6.2"
+author = "Marco Sumari Tellez"
+author_url = "https://github.com/tuxiasumari"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/ingelibre/ingetrazo/blob/v0.6.2/examples/extensions/progresivas.py"
+download = "https://raw.githubusercontent.com/ingelibre/ingetrazo/v0.6.2/examples/extensions/progresivas.py"
+sha256 = "79734433a8e79d3956db27047e81981c57a5519f0876b36101ad15db3976739e"
+ingetrazo = "0.6.2"
+tags = ["terrain", "drawing", "analysis"]
+
+screenshot = "progresivas.png"
+
+[name]
+es = "Progresivas"
+en = "Stationing"
+pt = "Estaqueamento"
+
+[summary]
+es = "Progresivas (0+000, 0+020…) a lo largo de un trazo: carreteras, caminos, canales y demás. Marcas, etiquetas que no se pisan, franja del ancho de la vía y etiquetas impresas en las láminas."
+en = "Stations (0+000, 0+020…) along a traced route: roads, paths, canals and the like. Ticks, labels that never overlap, a strip of the route's width, and labels printed on the sheets."
+pt = "Estaqueamento (0+000, 0+020…) ao longo de um traçado: estradas, caminhos, canais e afins. Marcas, rótulos que não se sobrepõem, faixa da largura da via e rótulos impressos nas pranchas."
