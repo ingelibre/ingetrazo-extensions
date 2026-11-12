@@ -1,0 +1,25 @@
+id = "rounded_snap_points"
+version = "1.0"
+author = "Antoine Enault"
+author_url = "https://github.com/antoinearchienault-hub"
+
+license = "MIT"
+
+repository = "https://github.com/antoinearchienault-hub/rounded-snap-points"
+
+download = "https://raw.githubusercontent.com/antoinearchienault-hub/rounded-snap-points/v1.0/rounded_snap_points.py"
+sha256 = "477881f0304c29ba21b27fbfaa2a67f2036eb1b35c5e87d615e87b1d0b016d5b"
+
+ingetrazo = "0.5.8"
+
+tags = ["drawing", "productivity"]
+
+[name]
+es = "Puntos de ajuste redondeados"
+en = "Rounded Snap Points"
+pt = "Pontos de ajuste arredondados"
+
+[summary]
+es = "Redondea automáticamente las coordenadas de los puntos de ajuste para un dibujo más limpio y preciso."
+en = "Automatically rounds snap point coordinates for cleaner and more accurate drafting in IngeTrazo."
+pt = "Arredonda automaticamente as coordenadas dos pontos de ajuste para um desenho mais limpo e preciso."
