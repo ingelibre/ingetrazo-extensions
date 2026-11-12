@@ -47,3 +47,8 @@ date = 2026-10-04
 sha256 = "e1073d8c42d45921fc4ab626aff40c7f3f8c7a592878e9c55e3b4aa25dcad01b"
 by = "tuxiasumari"
 date = 2026-10-05
+
+[progresivas]
+sha256 = "79734433a8e79d3956db27047e81981c57a5519f0876b36101ad15db3976739e"
+by = "tuxiasumari"
+date = 2026-11-12
