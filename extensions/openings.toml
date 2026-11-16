@@ -1,21 +1,21 @@
 id = "openings"
-version = "1.2"
-author = "Phillip Edwards (Eddy)"
-author_url = "https://github.com/eddy-99"
+version = "1.1"
+author = "smokey7428"
+author_url = "https://github.com/smokey7428"
 license = "GPL-3.0-or-later"
-repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/56772842810b9f8bcc0419b4561b9993b7d45a46/plugins/3D_Eddys/ed3d_openings.py"
-sha256 = "e275fa3024579159c2e8da63a0ca829255c91673a08d9b80d970dba1fd945934"
-ingetrazo = "0.5.11"
-tags = ["drawing", "fabrication"]
+repository = "https://github.com/smokey7428/ingetrazo-addons"
+download = "https://github.com/smokey7428/ingetrazo-addons/releases/download/openings-v1.1/openings-1.1.zip"
+sha256 = "a6618fe3bbb3703bac8d884dc8a7b3aa4af06e8994095f9c24e8c463d7bdb7e2"
+ingetrazo = "0.5.9"
+tags = ["architecture", "bim", "structures"]
 screenshot = "openings.webp"
 
 [name]
-es = "Huecos 3D"
-en = "3D Openings"
-pt = "Vãos 3D"
+es = "Muros, puertas y ventanas"
+en = "Walls, doors and windows"
+pt = "Paredes, portas e janelas"
 
 [summary]
-es = "Abre huecos de ventanas y puertas en los muros: escribe los huecos de cada muro (W D W) o dibuja cualquier forma, con dintel recto o en arco y mochetas alrededor. Cada muro sigue siendo una sola pieza que se imprime tumbada."
-en = "Cuts window and door openings through walls: type the openings along each wall (W D W) or draw any shape, with square or arched tops and reveals all round. Each wall stays one piece that prints flat."
-pt = "Abre vãos de janelas e portas nas paredes: escreva os vãos de cada parede (W D W) ou desenhe qualquer forma, com topo reto ou em arco e ombreiras à volta. Cada parede continua a ser uma só peça que se imprime deitada."
+es = "Dibuja muros por capas siguiendo una polilínea y coloca puertas y ventanas paramétricas en ellos, con sus datos IFC y un metrado por capa."
+en = "Draw layered walls along a polyline and place parametric doors and windows in them, with their IFC data and a take-off per layer."
+pt = "Desenhe paredes em camadas ao longo de uma polilinha e coloque portas e janelas paramétricas nelas, com os seus dados IFC e um orçamento por camada."
