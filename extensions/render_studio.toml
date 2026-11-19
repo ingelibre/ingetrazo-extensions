@@ -1,5 +1,5 @@
 id = "render_studio"
-version = "0.1.0"
+version = "0.2.0"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-render-studio"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.1.0/render_studio-0.1.0.zip"
-sha256 = "8835b0b24779ddbe8d6fae6080b071b98419f8403784521781f6aaa181b9b7f3"
+download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.2.0/render_studio-0.2.0.zip"
+sha256 = "0593ff8f8c11ef06227f791c4f52e84e1b84eb4bc8ed1ae868e1d45f9c19a0d8"
 
 ingetrazo = "0.6.2.1"
 
@@ -21,9 +21,9 @@ en = "Render Studio"
 pt = "Render Studio"
 
 [summary]
-es = "Renders tipo Enscape con un clic: estilos (día, nublado, hora dorada, maqueta blanca, interior, noche con estrellas), exposición automática, nubes y ajustes en vivo."
-en = "Enscape-like renders in one click: looks (day, overcast, golden hour, white model, interior, night with stars), automatic exposure, clouds and live adjustments."
-pt = "Renders estilo Enscape com um clique: estilos (dia, nublado, hora dourada, maquete branca, interior, noite com estrelas), exposição automática, nuvens e ajustes ao vivo."
+es = "Renders tipo Enscape con un clic: estilos (día, nublado, hora dorada, maqueta blanca, interior, noche con estrellas), fondo 360° (HDRI), editor de materiales, exposición automática y ajustes en vivo."
+en = "Enscape-like renders in one click: looks (day, overcast, golden hour, white model, interior, night with stars), 360° background (HDRI), a material editor, automatic exposure and live adjustments."
+pt = "Renders estilo Enscape com um clique: estilos (dia, nublado, hora dourada, maquete branca, interior, noite com estrelas), fundo 360° (HDRI), editor de materiais, exposição automática e ajustes ao vivo."
 
 [description]
-en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
+en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water, glowing), roughness, metal, relief and glow, saved in the document. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
