@@ -1,5 +1,5 @@
 id = "render_studio"
-version = "0.2.0"
+version = "0.3.0"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-render-studio"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.2.0/render_studio-0.2.0.zip"
-sha256 = "0593ff8f8c11ef06227f791c4f52e84e1b84eb4bc8ed1ae868e1d45f9c19a0d8"
+download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.3.0/render_studio-0.3.0.zip"
+sha256 = "d843651831552fa2d5897df8cc932e637cd4dda4dd77b05a3248f232c52e6721"
 
 ingetrazo = "0.6.2.1"
 
@@ -26,4 +26,4 @@ en = "Enscape-like renders in one click: looks (day, overcast, golden hour, whit
 pt = "Renders estilo Enscape com um clique: estilos (dia, nublado, hora dourada, maquete branca, interior, noite com estrelas), fundo 360° (HDRI), editor de materiais, exposição automática e ajustes ao vivo."
 
 [description]
-en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water, glowing), roughness, metal, relief and glow, saved in the document. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
+en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water, glowing), roughness, metal, relief and glow, each optionally following a map (the picture in black and white, or an image file such as a normal map), saved in the document. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
