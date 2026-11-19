@@ -1,5 +1,5 @@
 id = "render_studio"
-version = "0.3.0"
+version = "0.9.1"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-render-studio"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.3.0/render_studio-0.3.0.zip"
-sha256 = "d843651831552fa2d5897df8cc932e637cd4dda4dd77b05a3248f232c52e6721"
+download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.9.1/render_studio-0.9.1.zip"
+sha256 = "d8dcbb644dbe3b13b631a0e6e3b7a238466ccd80fa89a1e18cea409a71f2e59a"
 
 ingetrazo = "0.6.2.1"
 
@@ -21,9 +21,9 @@ en = "Render Studio"
 pt = "Render Studio"
 
 [summary]
-es = "Renders tipo Enscape con un clic: estilos (día, nublado, hora dorada, maqueta blanca, interior, noche con estrellas), fondo 360° (HDRI), editor de materiales, exposición automática y ajustes en vivo."
-en = "Enscape-like renders in one click: looks (day, overcast, golden hour, white model, interior, night with stars), 360° background (HDRI), a material editor, automatic exposure and live adjustments."
-pt = "Renders estilo Enscape com um clique: estilos (dia, nublado, hora dourada, maquete branca, interior, noite com estrelas), fundo 360° (HDRI), editor de materiais, exposição automática e ajustes ao vivo."
+es = "Renders fotográficos con un clic: estilos (día, nublado, hora dorada, maqueta blanca, interior, noche con estrellas), fondo 360° (HDRI), editor de materiales, vista en vivo, exposición automática y ajustes en vivo."
+en = "Photographic renders in one click: looks (day, overcast, golden hour, white model, interior, night with stars), 360° background (HDRI), a material editor, a live view, automatic exposure and live adjustments."
+pt = "Renders fotográficos com um clique: estilos (dia, nublado, hora dourada, maquete branca, interior, noite com estrelas), fundo 360° (HDRI), editor de materiais, vista ao vivo, exposição automática e ajustes ao vivo."
 
 [description]
-en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water, glowing), roughness, metal, relief and glow, each optionally following a map (the picture in black and white, or an image file such as a normal map), saved in the document. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
+en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water with ripples, glowing), roughness, metal, relief, glow and transparency, each optionally following a map, can change the material's picture, and shows an instant preview on a cube; everything is saved in the document. A live view keeps Blender open and a draft follows the 3D view. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. Blender only runs when the user renders or turns the live view on. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
