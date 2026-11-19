@@ -1,0 +1,29 @@
+id = "skp_dc_import"
+version = "0.3.0"
+author = "moominot"
+author_url = "https://github.com/moominot"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
+
+# The release asset, under the release's tag.
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/v0.3.0/skp_dc_import-0.3.0.zip"
+sha256 = "611a1d9161583fcd4046ceaae4a115c7a9d1d56e38c32eb26aa02d761a62f646"
+
+ingetrazo = "0.6.2.1"
+
+tags = ["import-export", "architecture", "productivity"]
+
+[name]
+es = "Componentes dinámicos de SketchUp"
+en = "SketchUp Dynamic Components"
+pt = "Componentes dinâmicos do SketchUp"
+
+[summary]
+es = "Abre .skp conservando los componentes dinámicos, cambia sus opciones y los redibuja como SketchUp, crea los tuyos y vuelve a guardarlos en .skp."
+en = "Open .skp files keeping their dynamic components, change their options and redraw them as SketchUp does, make your own, and save them back to .skp."
+pt = "Abre .skp mantendo os componentes dinâmicos, muda suas opções e os redesenha como o SketchUp, cria os seus e salva de volta em .skp."
+
+[description]
+en = "Imports a .skp with its component tree and each part's Dynamic Components attributes, formulas and options (a newer OpenSKP is bundled to read definition attributes). Component Options redraws a component as SketchUp's own engine does: copies, hidden parts, sizes, rotations, materials, LenX resizing. Component Attributes makes components dynamic and edits formulas per part. Export SketchUp (.skp) writes them back as working dynamic components (SketchUp 2017 format). Checked part by part against SketchUp 2026's redraw. Formula interpreter from d1rty-pixel's Dynamic Components. Note: .skp export uses OpenSKP's blank template, whose bytes came from Trimble's SketchUp SDK (see the README); import works without it."
