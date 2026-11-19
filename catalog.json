@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-19T20:56Z",
+ "generated": "2026-11-19T21:58Z",
  "tags": [
   "analysis",
   "architecture",
@@ -3998,14 +3998,13 @@
   },
   {
    "id": "v_menu",
-   "version": "1.0",
+   "version": "1.1",
    "author": "priit123",
-   "author_url": "https://github.com/priit123",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/priit123/ingetrazo-v-menu",
-   "download": "https://github.com/priit123/ingetrazo-v-menu/releases/download/1.0/ingetrazo-v-menu-1.0.zip",
-   "sha256": "aa53fab796f71131d98e7a19d334ddeb4a5cced849f99bb4b70cd19348491b26",
-   "ingetrazo": "0.6.0",
+   "download": "https://github.com/priit123/ingetrazo-v-menu/releases/download/1.1/ingetrazo-v-menu-1.1.zip",
+   "sha256": "52f48d91d646cd88a9c0e90415b0799b9b1b645e9beac98fd3f0629426cb993d",
+   "ingetrazo": "0.6.2.1",
    "tags": [
     "productivity"
    ],
@@ -4022,7 +4021,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-02T14:40Z",
-   "updated_at": "2026-11-08T12:00Z",
+   "updated_at": "2026-11-19T21:58Z",
    "screenshot_sha": "26849597a67b7156",
    "thumb": "v_menu.webp"
   },
