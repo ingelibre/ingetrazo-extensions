@@ -1,5 +1,5 @@
 id = "render_studio"
-version = "0.9.1"
+version = "0.10.0"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-render-studio"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.9.1/render_studio-0.9.1.zip"
-sha256 = "d8dcbb644dbe3b13b631a0e6e3b7a238466ccd80fa89a1e18cea409a71f2e59a"
+download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.10.0/render_studio-0.10.0.zip"
+sha256 = "d586edc3001a197fc854029037d8f0dcce79995b565f03dde6134082d0148b5c"
 
 ingetrazo = "0.6.2.1"
 
@@ -26,4 +26,4 @@ en = "Photographic renders in one click: looks (day, overcast, golden hour, whit
 pt = "Renders fotográficos com um clique: estilos (dia, nublado, hora dourada, maquete branca, interior, noite com estrelas), fundo 360° (HDRI), editor de materiais, vista ao vivo, exposição automática e ajustes ao vivo."
 
 [description]
-en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water with ripples, glowing), roughness, metal, relief, glow and transparency, each optionally following a map, can change the material's picture, and shows an instant preview on a cube; everything is saved in the document. A live view keeps Blender open and a draft follows the 3D view. The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. Blender only runs when the user renders or turns the live view on. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
+en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (switches to Cycles) and night (stars, moonlit clouds, the document's lamps). Each one meters its exposure on a quick pre-render, uses AgX with white balance, procedural clouds, a sun coloured by its height and distance haze. A 360° image (HDRI) can be the background and light the scene. A simple material editor sets, per material, a preset, a type (generic, glass, water with ripples, glowing), roughness, metal, relief, glow and transparency, each optionally following a map, can change the material's picture, and shows an instant preview on a cube; everything is saved in the document. A textured material renders with its whole texture set (normal, roughness, ambient occlusion, displacement, metalness, opacity) when its picture has one, named in a .pbr.json file beside it or by the Poly Haven / ambientCG file names. A live view keeps Blender open: a quick image first, then the draft, following the camera (about 3 frames a second) and the model's changes (about 1 s). The finished image opens in a window where exposure, contrast, saturation, warmth and vignette change instantly, without rendering again. Blender only runs when the user renders or turns the live view on. EEVEE about 3 s, Cycles about 5 s on an RTX GPU."
