@@ -1,5 +1,5 @@
 id = "skp_dc_import"
-version = "0.6.3"
+version = "0.6.4"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/skp_dc_import-v0.6.3/skp_dc_import-0.6.3.zip"
-sha256 = "976d519283c59e2829023533a2ca8792fc0ce89d21c778a26bcbd4fee2c9c364"
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/skp_dc_import-v0.6.4/skp_dc_import-0.6.4.zip"
+sha256 = "c3963a09d3d16ef67ace1d66039078e69ff4b506abd851ed4ba592594fa16382"
 
 ingetrazo = "0.6.2.1"
 
