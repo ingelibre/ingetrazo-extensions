@@ -1,5 +1,5 @@
 id = "render_studio"
-version = "0.13.0"
+version = "0.15.1"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-render-studio"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.13.0/render_studio-0.13.0.zip"
-sha256 = "7ffd95e978570e316d85832e893bcdef366f6e28c6b25b1ebe46cae88e52940a"
+download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.15.1/render_studio-0.15.1.zip"
+sha256 = "f1135606b1fd2ccb60ce089bf909080e0659c946834b76d40c36e8529bee6040"
 
 ingetrazo = "0.6.2.1"
 
@@ -26,4 +26,4 @@ en = "Photographic renders: looks (day, golden hour, white model, interior, nigh
 pt = "Renders fotográficos: estilos (dia, hora dourada, maquete branca, interior, noite), fundo 360°, luzes com IES, sol por lugar e hora, editor de materiais, prévia ao vivo, saída PNG a EXR; os proxies saem com o modelo completo."
 
 [description]
-en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (Cycles) and night (stars, moonlit clouds). Each meters its exposure on a quick pre-render, with AgX, white balance, procedural clouds, a sun coloured by its height and distance haze; a 360° image (HDRI) can be the background and light the scene. Lights tab: point, spot, area and sun lights drawn in the view, ready-made lamps, lumens or watts, IES profiles, lights placed on objects that follow every copy. Sun tab: latitude and longitude (or a map), north, date and hour, shared with IngeTrazo's own shadows. Output tab: sizes from HD to 4K and A4–A1 prints, PNG, JPEG, 16-bit PNG/TIFF, OpenEXR, transparent sky, saving every render. A material editor sets, per material, a preset, a type (glass, water with ripples, glowing…), roughness, metal, relief, glow and transparency, with an instant cube preview; a textured material renders with its whole texture set (normal, roughness, AO, displacement…) named in a .pbr.json file or by common file names. Proxies (light stand-ins whose full model is in an .igz of its own, as the «Proxies» and «Components manager» extensions make them) are rendered as their full models, each imported once and instanced. The preview window keeps a live view (camera about 3 frames a second, model changes about 1 s), renders the final picture and retouches it (exposure, contrast, saturation, warmth, vignette) without rendering again. Blender only runs when the user renders or opens the preview."
+en = "Drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. Seven looks: clear day, partly cloudy, golden hour, overcast, white model, interior (Cycles) and night (stars, moonlit clouds). Each meters its exposure on a quick pre-render, with AgX, white balance, procedural clouds, a sun coloured by its height and distance haze; a 360° image (HDRI) can be the background and light the scene. Lights tab: point, spot, area and sun lights drawn in the view, ready-made lamps, lumens or watts, IES profiles, lights placed on objects that follow every copy. Sun tab: latitude and longitude (or a map), north, date and hour, shared with IngeTrazo's own shadows. Section tab: the drawing's active section plane cuts the render, closed with a cap of a material of the drawing. Output tab: sizes from HD to 4K and A4–A1 prints, PNG, JPEG, 16-bit PNG/TIFF, OpenEXR, transparent sky, saving every render. A material editor sets, per material, a preset, a type (glass, water with ripples, glowing…), roughness, metal, relief, glow and transparency, with an instant cube preview and an opacity map for cut-outs (black is transparent); a textured material renders with its whole texture set (normal, roughness, AO, displacement…) named in a .pbr.json file or by common file names. Proxies (light stand-ins whose full model is in an .igz of its own, as the «Proxies» and «Components manager» extensions make them) are rendered as their full models, each imported once and instanced. The preview window keeps a live view (camera about 3 frames a second, model changes about 1 s), renders the final picture and retouches it (exposure, contrast, saturation, warmth, vignette) without rendering again. Blender only runs when the user renders or opens the preview."
