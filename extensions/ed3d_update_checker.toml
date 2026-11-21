@@ -1,0 +1,20 @@
+id = "ed3d_update_checker"
+version = "1.0"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8a6e32de7cb4cbb3dd76402ebca702ae4e43840d/plugins/3D_Eddys/ed3d_update_checker.py"
+sha256 = "647e74b70b5f910080adb85292cac0fc48bb1f00d4a5aa1ea174754df3c2bae9"
+ingetrazo = "0.5.11"
+tags = ["productivity"]
+
+[name]
+es = "Buscar actualizaciones 3D"
+en = "3D Check for Updates"
+pt = "Procurar atualizações 3D"
+
+[summary]
+en = "Finds new versions of Eddy's 3D plugins, and new plugins, on GitHub. Tick the ones you want and they're put in for you, with your old copy kept as a backup. Can check by itself when IngeTrazo starts."
+es = "Busca en GitHub nuevas versiones de los plugins 3D de Eddy, y plugins nuevos. Marca los que quieras y se instalan solos, guardando una copia de los anteriores. Puede comprobarlo solo al abrir IngeTrazo."
+pt = "Procura no GitHub novas versões dos plugins 3D do Eddy, e plugins novos. Marque os que quiser e são instalados por si, guardando uma cópia dos anteriores. Pode verificar sozinho ao abrir o IngeTrazo."
