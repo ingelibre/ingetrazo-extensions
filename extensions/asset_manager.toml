@@ -14,6 +14,7 @@ sha256 = "36d6462c14ed34f2b26a12d2c8aad33268f78218985f0d333357680038220919"
 ingetrazo = "0.6.2.1"
 
 tags = ["productivity", "architecture", "rendering"]
+screenshot = "asset_manager.webp"
 
 [name]
 es = "Gestor de componentes"
