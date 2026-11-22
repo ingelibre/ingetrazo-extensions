@@ -14,6 +14,7 @@ sha256 = "46c4beebe33b777806fb44932e36c06a18f7dd8ae83ceb50501eda2cfb15cdd9"
 ingetrazo = "0.6.2.1"
 
 tags = ["import-export", "architecture", "productivity"]
+screenshot = "skp_dc_import.png"
 
 [name]
 es = "Componentes paramétricos desde .skp"

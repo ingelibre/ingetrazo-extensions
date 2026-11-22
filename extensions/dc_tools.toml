@@ -14,6 +14,7 @@ sha256 = "cee68dcfbbdba44dde7c5a15684ffe111c048ccc2703bcbfbf25a3e9635a8197"
 ingetrazo = "0.6.2.1"
 
 tags = ["architecture", "productivity"]
+screenshot = "dc_tools.png"
 
 [name]
 es = "Componentes dinámicos: opciones y fórmulas"
