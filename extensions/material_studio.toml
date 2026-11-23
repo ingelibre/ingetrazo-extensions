@@ -1,0 +1,24 @@
+
+id = "material_studio"
+version = "0.4.15"
+author = "dre87bb2"
+author_url = "https://github.com/dre87bb2"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/dre87bb2/material-studio"
+download = "https://raw.githubusercontent.com/dre87bb2/material-studio/v0.4.15/Material_Studio_v0.4.15.zip"
+sha256 = "1f6dc538f8904ced0d4202f8fdb0e0e28e65856451b2ae8204458903bb4c3584"
+
+ingetrazo = "0.6.2.1"
+tags = ["architecture", "rendering", "productivity"]
+
+[name]
+en = "Material Studio"
+es = "Estudio de materiales"
+pt = "Estúdio de Materiais"
+
+[summary]
+en = "Edit per-material PBR properties and texture maps; add surface relief, emission and glow, lighting, camera controls, and Blender Cycles/EEVEE render presets."
+es = "Edita propiedades PBR y mapas de textura por material; añade relieve, emisión y resplandor, iluminación, cámara y ajustes de render para Blender Cycles/EEVEE."
+pt = "Edite propriedades PBR e mapas de textura por material; adicione relevo, emissão e brilho, iluminação, câmera e predefinições de renderização para Blender Cycles/EEVEE."

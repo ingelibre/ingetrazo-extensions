@@ -1,11 +1,11 @@
 id = "subframe"
-version = "1.0"
+version = "1.5"
 author = "Phillip Edwards (Eddy)"
 author_url = "https://github.com/eddy-99"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/56772842810b9f8bcc0419b4561b9993b7d45a46/plugins/3D_Eddys/ed3d_subframe.py"
-sha256 = "7e2eb362ec268a3e748371ee14e2e8d81e8ad3166c71515eb439c633cfa02926"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8401a0927e397fcff04b5b6f4bafc0c19a5d2cde/plugins/3D_Eddys/ed3d_subframe.py"
+sha256 = "a968f43a32be5468f79c2cefe21c953ffbe3fa803c55b1eec742dcbc397dc2d7"
 ingetrazo = "0.5.11"
 tags = ["drawing", "fabrication"]
 

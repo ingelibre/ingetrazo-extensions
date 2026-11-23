@@ -1,13 +1,14 @@
 id = "ed3d_openings"
-version = "1.2"
+version = "1.6"
 author = "Phillip Edwards (Eddy)"
 author_url = "https://github.com/eddy-99"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
-download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/56772842810b9f8bcc0419b4561b9993b7d45a46/plugins/3D_Eddys/ed3d_openings.py"
-sha256 = "e275fa3024579159c2e8da63a0ca829255c91673a08d9b80d970dba1fd945934"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8401a0927e397fcff04b5b6f4bafc0c19a5d2cde/plugins/3D_Eddys/ed3d_openings.py"
+sha256 = "b48f79c8a79edf8b25d26f5feafb12e5c762072685fdbd3020e8d45a705b6dac"
 ingetrazo = "0.5.11"
 tags = ["drawing", "fabrication"]
+screenshot = "ed3d_openings.webp"
 
 [name]
 es = "Huecos 3D"
