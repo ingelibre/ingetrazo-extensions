@@ -1,5 +1,5 @@
 id = "dc_tools"
-version = "0.3.7"
+version = "0.3.8"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.7/dc_tools-0.3.7.zip"
-sha256 = "167b73ab2d7410fb86942d87c137432a2b26f800bb068f153c5ba2bad07d40d9"
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.8/dc_tools-0.3.8.zip"
+sha256 = "c059060a9cff64ee085acc2db6e011c09d7adbf32abe484f62d5eac76e15bb8c"
 
 ingetrazo = "0.6.2.1"
 
@@ -27,4 +27,4 @@ en = "Change a dynamic component's options and redraw it (copies, hidden parts, 
 pt = "Mude as opções de um componente dinâmico e redesenhe-o (cópias, peças ocultas, medidas, rotações, materiais), ou torne seus componentes dinâmicos e escreva atributos e fórmulas. Um botão ? explica cada função."
 
 [description]
-en = "Component Options shows a dynamic component's options and redraws it by the .skp format's rules: copies, hidden parts, sizes, positions, rotations, materials and LenX/LenY/LenZ resizing, checked part by part against the original program's redraw. Component Attributes makes a group dynamic and edits attributes and formulas per part, also inside an open group, where a nested part sees its parent (Parent!LenX). IngeTrazo's Scale tool shows only the handles a component's ScaleTool attribute allows, and a scaled dynamic component is redrawn at its new size instead of stretched. Every change is one undo step. Works on components imported with «Parametric components from .skp» or made here; needs no .skp file. Formula interpreter from d1rty-pixel's Dynamic Components (no eval, with limits on size and depth)."
+en = "Component Options shows a dynamic component's options and redraws it by the .skp format's rules: copies, hidden parts, sizes, positions, rotations, materials and LenX/LenY/LenZ resizing, checked part by part against the original program's redraw. Component Attributes makes a group dynamic and edits attributes and formulas per part, also inside an open group, where a nested part sees its parent (Parent!LenX). IngeTrazo's Scale tool shows only the handles a component's ScaleTool attribute allows, and a scaled dynamic component is redrawn at its new size instead of stretched. A dynamic component can cut its own hole in a wall: choose the side flush with it (Cut plane), an arrow shows the way the hole is cut and the cut can be flipped. A component becomes dynamic on its first attribute. Every change is one undo step. Works on components imported with «Parametric components from .skp» or made here; needs no .skp file. Formula interpreter from d1rty-pixel's Dynamic Components (no eval, with limits on size and depth)."
