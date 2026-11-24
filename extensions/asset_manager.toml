@@ -1,5 +1,5 @@
 id = "asset_manager"
-version = "0.6.0"
+version = "0.7.1"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.6.0/asset_manager-0.6.0.zip"
-sha256 = "81d57555e9e98ef90e4d7f9f8cbec16d863d80282bcf64bc53cb82e06893e84f"
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.7.1/asset_manager-0.7.1.zip"
+sha256 = "4b65f9fb366c38f39853c8512465f4dfff4667b4c4d0f838ceeebacd43c2485d"
 
 ingetrazo = "0.6.2.1"
 
