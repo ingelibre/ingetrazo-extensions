@@ -1,5 +1,5 @@
 id = "dc_tools"
-version = "0.3.8"
+version = "0.3.9"
 author = "moominot"
 author_url = "https://github.com/moominot"
 
@@ -8,8 +8,8 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
 
 # The release asset, under the release's tag.
-download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.8/dc_tools-0.3.8.zip"
-sha256 = "c059060a9cff64ee085acc2db6e011c09d7adbf32abe484f62d5eac76e15bb8c"
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.9/dc_tools-0.3.9.zip"
+sha256 = "cf6c7bd4a164e9a228eb31d53eaec6466d2c4399e48ff2e788c2a0e7d1922787"
 
 ingetrazo = "0.6.2.1"
 
