@@ -1,0 +1,43 @@
+# IngeTrazo community catalog entry — https://github.com/ingelibre/ingetrazo-extensions
+#
+# To publish: copy this file to  extensions/igz_smooth_edges.toml  in the
+# ingetrazo-extensions repository and copy the screenshot to
+# screenshots/igz-smooth-edges.png, then open a pull request. The release asset
+# referenced by `download` must exist first (see PUBLISHING.md here).
+
+id = "igz_smooth_edges"
+version = "1.0.2"
+author = "Ezequiel M. Rezende"
+author_url = "https://github.com/em-rezende"
+
+# SPDX name of a free licence compatible with GPL-3.0 (same as IngeTrazo).
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/em-rezende/Ingetrazo-igz-smooth-edges"
+
+# Tagged GitHub Release asset — never a branch URL, so what a maintainer
+# reviewed is exactly what users download. One folder with an __init__.py.
+download = "https://github.com/em-rezende/Ingetrazo-igz-smooth-edges/releases/download/v1.0.2/igz_smooth_edges.zip"
+# certutil -hashfile dist\igz_smooth_edges.zip SHA256  (Windows)
+sha256 = "ec200a25319c7123ae20bbd6702e1e22539960fa528473338108787e569e05c0"
+
+# IngeTrazo version tested with (the 0.6.3 series).
+ingetrazo = "0.6.3"
+
+tags = ["architecture", "rendering", "productivity"]
+screenshot = "igz-smooth-edges.png"
+
+[name]
+es = "Suavizar Aristas"
+en = "Smooth Edges"
+pt = "Suavizar Arestas"
+
+[summary]
+es = "Suaviza o restaura aristas interiores de la malla por ángulo diedro, con vista previa en vivo, deshacer en un paso, recorrido de grupos y componentes, ocultar aristas y siete idiomas."
+en = "Softens or restores interior mesh edges by dihedral angle, with live preview, one-step undo, group and component traversal, optional hidden edges and seven languages."
+pt = "Suaviza ou restaura arestas internas da malha por ângulo diedro, com prévia em tempo real, desfazer em um passo, travessia de grupos e componentes, ocultar arestas e sete idiomas."
+
+[description]
+es = "Suavizar Aristas es una herramienta técnica de sombreado de malla para IngeTrazo: recorre las aristas interiores de la selección (o de grupos y componentes completos), mide el ángulo diedro entre las dos caras que comparten cada arista y ajusta las marcas de suavizado y visibilidad según un umbral de 0 a 180°. Un panel acoplable compacto muestra la vista previa en vivo mientras se mueve el control (retardo de 60 ms), confirma todo en un solo paso de deshacer y revierte limpiamente al volver el ángulo a 0°, incluidas las aristas coplanares. Incluye las opciones «Ocultar aristas suavizadas» y «Suavizar coplanares», iconos SVG que se adaptan al tema claro u oscuro y una interfaz traducida al inglés, portugués, español, alemán, francés, italiano y chino simplificado. Solo usa PySide6, sin paquetes externos."
+en = "Smooth Edges is a technical mesh-shading tool for IngeTrazo: it walks the interior edges of the selection (or of whole groups and components), measures the dihedral angle between the two faces that share each edge and sets the softening and visibility flags from a 0–180° threshold. A compact dockable panel previews the result live while the slider moves (60 ms debounce), commits everything as one undo step and reverts cleanly when the angle goes back to 0°, coplanar edges included. It adds «Hide softened edges» and «Soften coplanar» switches, SVG icons that follow the light or dark theme, and an interface translated into English, Portuguese, Spanish, German, French, Italian and Simplified Chinese. PySide6 only, no external packages."
+pt = "Suavizar Arestas é uma ferramenta técnica de sombreamento de malha para o IngeTrazo: percorre as arestas internas da seleção (ou de grupos e componentes inteiros), mede o ângulo diedro entre as duas faces que compartilham cada aresta e ajusta as marcas de suavização e visibilidade a partir de um limite de 0° a 180°. Um painel acoplável compacto mostra a prévia em tempo real enquanto o controle deslizante se move (atraso de 60 ms), confirma tudo em um único passo de desfazer e reverte de forma limpa quando o ângulo volta a 0°, incluindo as arestas coplanares. Traz as opções «Ocultar arestas suavizadas» e «Suavizar coplanares», ícones SVG que acompanham o tema claro ou escuro e uma interface traduzida para inglês, português, espanhol, alemão, francês, italiano e chinês simplificado. Usa apenas PySide6, sem pacotes externos."
