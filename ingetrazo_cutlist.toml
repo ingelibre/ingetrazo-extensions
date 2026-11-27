@@ -1,0 +1,26 @@
+id = "ingetrazo_cutlist"
+version = "0.1-beta"
+author = "brillian11"
+author_url = "https://github.com/Brillian11"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/Brillian11/ingetrazo-cutlist"
+
+download = "https://raw.githubusercontent.com/Brillian11/ingetrazo-cutlist/main/cutlist_plugin.py"
+sha256 = "f019d30d41e6e521230e9487bc3cf5c970ff81e999040e3230b496c11ada8f9f"
+
+ingetrazo = "0.5.8"
+
+tags = ["woodworking", "cutlist", "nesting", "drawings", "productivity"]
+
+[name]
+en = "OpenCutList (Woodworking & Cut List)"
+es = "OpenCutList (Carpintería y Lista de Cortes)"
+
+[summary]
+en = "Dedicated cut list, 1D lumber optimization, 2D sheet nesting, and 3D exploded technical drawing suite for woodworkers & cabinet makers."
+es = "Lista de cortes, optimización 1D/2D y planos de despiece 3D para carpinteros y ebanistas."
+
+[description]
+en = "OpenCutList for IngeTrazo is a comprehensive extension designed specifically for woodworkers, cabinet makers, carpenters, and furniture designers. Features include automatic part grouping and thickness classification, 1D linear lumber cutting diagrams, 2D sheet goods guillotine nesting, 3D exploded axonometric assembly drawings with callouts, and seamless integration with IngeTrazo's 640+ material library."
