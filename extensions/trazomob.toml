@@ -1,0 +1,29 @@
+# Copy this file to extensions/trazomob.toml in ingelibre/ingetrazo-extensions
+id = "trazomob"
+version = "1.1.0"
+author = "Mauro Garcia"
+author_url = "https://github.com/garciamauro01"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/garciamauro01/trazomob"
+
+download = "https://github.com/garciamauro01/trazomob/releases/download/v1.1.0/trazomob.zip"
+sha256 = "ef6ccf3188fe0673d8c0c18f7b5de4e1b8632bdfb05988aa9f3fc136099219ae"
+
+ingetrazo = "0.6.0"
+
+tags = ["fabrication", "architecture", "bim", "productivity"]
+
+# Optional: a picture in screenshots/ (png, jpg or webp, under 600 KB, ~1200x750).
+# screenshot = "trazomob.png"
+
+[name]
+pt = "TrazoMob - Marcenaria e Modulação 3D"
+es = "TrazoMob - Carpintería y Modulación 3D"
+en = "TrazoMob - Cabinet & Woodworking 3D"
+
+[summary]
+pt = "Modulação paramétrica de móveis sob medida, ambientes 2D/3D, furações CNC, orçamento e plano de corte integrado."
+es = "Modulación paramétrica de muebles a medida, ambientes 2D/3D, mecanizado CNC, presupuesto e plano de corte integrado."
+en = "Parametric custom cabinet design, 2D/3D rooms, CNC boring, pricing and integrated cutlist optimizer for woodworking."
