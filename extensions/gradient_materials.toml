@@ -1,0 +1,20 @@
+id = "gradient_materials"
+version = "1.0"
+author = "Arthur de Nóbrega"
+author_url = "https://github.com/arthurarquitetoamb"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/arthurarquitetoamb/extension-ingetrazo-gradient-materials"
+download = "https://raw.githubusercontent.com/arthurarquitetoamb/extension-ingetrazo-gradient-materials/1.0/gradient_materials.py"
+sha256 = "c23c5e017eeee4ea59749ce8f7514fb86ef99891641fe5f7efb02a8e67b7b80a"
+ingetrazo = "0.6.2.1"
+tags = ["rendering"]
+
+[name]
+es = "Pintura degradada"
+en = "Gradient Paint"
+pt = "Pintura com gradiente"
+
+[summary]
+es = "Caras con degradados elípticos, lineales y de pintura superficial."
+en = "Faces with elliptical, linear and surface-paint gradients."
+pt = "Faces com gradientes elípticos, lineares e de pintura de superfície."
