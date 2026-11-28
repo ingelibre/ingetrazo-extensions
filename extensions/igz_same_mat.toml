@@ -1,0 +1,30 @@
+id = "igz_same_mat"
+version = "1.2.3"
+author = "MoonDragon"
+author_url = "https://github.com/MoonDragon-MD/"
+
+license = "MIT"
+
+repository = "https://github.com/MoonDragon-MD/IngeTrazo-same_mat"
+
+download = "https://raw.githubusercontent.com/MoonDragon-MD/IngeTrazo-same_mat/V.1/igz_same_mat.py"
+
+sha256 = "5f2057d2f6a712683be634c5c80b36e7b4f8035af624ada4cfed6ac7d02889b6"
+
+ingetrazo = "0.5.9"
+
+tags = ["color, faces, front, back, materials, textures"]
+
+screenshot = "igz_same_mat.png"
+
+[name]
+es = "Same Mat"
+en = "Same Mat"
+pt = "Same Mat"
+it = "Same Mat"
+
+[summary]
+es = "Selecciona y colorea las caras conectadas por el mismo material."
+en = "Select and color the faces connected by the same material."
+pt = "Selecione e pinte as faces conectadas pelo mesmo material."
+it = "Seleziona e colora le facce collegate dallo stesso materiale."
